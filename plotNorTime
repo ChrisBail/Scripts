@@ -1,0 +1,29 @@
+#!/bin/bash
+# plot Nordic File hypocenter information as a function of time
+# Uses nor2xyz (which uses python) and plotEQTime.sh (which uses GMT)
+	
+gotNorFile=0
+while getopts "f:" opt; do
+	case $opt in
+		f) norfile=$OPTARG
+		   gotNorFile=1;;
+	esac
+done
+
+if ! [ $gotNorFile == 1 ]; then
+	echo "Usage: `basename $0` -f norfile [options]"
+	echo " Calls plotEQTime.sh, replacing the Nordic filename with its xyz equivalent"
+	echo "   Uses 'nor2xyz' to create the xyz file, and plotEQTime.sh uses GMT"
+	echo " Type 'plotEQTime.sh' for a list of other options"
+	echo " OPTIONS: [defaults in brackets]"
+	echo "    -f  norfile   name <norfile> of Nordic file containing the hypocenters [${norfile}])"
+	exit $E_OPTERROR
+fi
+
+if test -f $norfile ; then
+	nor2xyz -f $norfile > tmpHypos.xyz	# convert Nordic file lines 1 and 2 to csv
+
+	plotEQTime.sh $options -f tmpHypos.xyz 
+else
+	echo "Nordic file '$norfile' doesn't exist!"
+fi

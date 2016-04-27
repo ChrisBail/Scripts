@@ -1,0 +1,5 @@
+# parameter file for sta lta picker
+# <station> <trigger level> <sta (s)> <lta (s)> <dead time (s)> <high pass (Hz)> <low pass (Hz)>
+# station name "*" matches all stations unless specfied with correct name in mseed header
+#
+* 15.0 1.0 30.0 5.0 1.0 12.0

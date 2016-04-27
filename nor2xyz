@@ -1,0 +1,168 @@
+#!/usr/bin/python
+# Author: Wayne Crawford
+# 
+import sys, math
+from optparse import OptionParser		# Parser for command line options
+from datetime import time, datetime, timedelta, date
+from tempfile import mkstemp
+import os								# part of string module
+
+def main() :
+	""" strips out xyz values from Nordic files
+	Only looks at lines "1" and "E"
+	Normally outputs x y z time mag xerr(km) yerr(km) zerr(km) timeerr(s) rms
+	-full outputs x,y,z,datetime,mag1,timeerr,xerr,yerr,zerr,
+					nstations,rms,gap,distid,elevid,mag2,mag3,covxy,covxz,covyz
+		"""
+		
+	####################################
+	# Set up the command line parser
+	####################################
+	usage = """usage: %prog [options] file"""
+	parser = OptionParser (usage=usage)
+ 	parser.add_option("-f","--full", dest="outpfull", action="store_true",
+ 						help="output all line 1 and E information, comma-separated")
+ 	parser.set_defaults(outpfull=False)
+	####################################
+	# Parse the command line
+	####################################
+	(options, args) = parser.parse_args()
+	if len(args) != 1:
+		print main.__doc__
+		parser.print_help()
+		return 2
+		
+	norfile=args[0]
+
+	f=open(norfile,'r')
+	i=0
+	gotE=False
+	gotOne=False
+	line=f.readline()
+	oline=[]
+	prevtype=0
+	while len(line)>0:
+		i=i+1
+		linetype=identifyline(line,prevtype)
+		prevtype=linetype
+		if linetype==0 :	# Print previous info
+			if (gotOne) :
+				if (gotE) :
+					printOne(options.outpfull,lon,lat,depth,dtime,mag1,terr,xerr,yerr,zerr,nstat,rms,gap,distid,elevid,mag2,mag3,covxy,covxz,covyz)
+				else :
+					printOne(options.outpfull,lon,lat,depth,dtime,mag1,'','','','',nstat,rms,'',distid,elevid,mag2,mag3,'','','')
+			gotOne=False
+			gotE=False
+		elif linetype==1 :
+			gotOne=True
+			dtime,distid,elevid,lat,lon,depth,nstat,rms,mag1,mag2,mag3=strip1(line)
+			#print lat.isspace()
+		elif linetype=='H' :
+			dtime,lat,lon,depth,rms=stripH(line)
+			#print lat.isspace()
+		elif linetype=='E' :
+			gotE=True
+			gap,terr,yerr,xerr,zerr,covxy,covxz,covyz = stripE(line)
+			if not gotOne:
+				error('How can you get E without 1?')
+				return 2
+		line=f.readline()
+	f.close()
+	if (gotOne & gotE):
+		printOne(options.outpfull,lon,lat,depth,dtime,mag1,terr,xerr,yerr,zerr,nstat,rms,gap,distid,elevid,mag2,mag3,covxy,covxz,covyz)
+	return 0	
+#########################################################################
+def printOne(outpfull,lon,lat,depth,dtime,mag1,terr,xerr,yerr,zerr,nstat,rms,gap,distid,elevid,mag2,mag3,covxy,covxz,covyz):
+	if outpfull:
+		print '%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s' %   (lon,lat,depth,dtime,mag1,terr,xerr,yerr,zerr, nstat,rms,gap,distid,elevid,mag2,mag3,covxy,covxz,covyz)
+	elif not ( (len(lat)==0) | (len(lon)==0) | (len(depth)==0) ) :
+		print '%8s %7s %5s %21s %6s %6s %6s %5s %5s %5s' % (lon,lat,depth,dtime,mag1,xerr,yerr,zerr,terr,rms)
+	return
+#########################################################################
+def tofloat(val):
+	if not val.isspace() :
+		val=float(val)
+	else :
+		val=-999.
+	return val
+#########################################################################
+def toint(val):
+	if not val.isspace() :
+		val=int(val)
+	else :
+		val=-999
+	return val
+#########################################################################
+def checknumstr(val):
+	val=val.strip()
+	if ((len(val)==0) | (val=='-')) :
+		val='-999'
+	return val
+#########################################################################
+def strip1(line):
+	year=  toint(line[1:5])
+	month= toint(line[6:8])
+	day=   toint(line[8:10])
+	hour=  toint(line[11:13])
+	minute=toint(line[13:15])
+	second=tofloat(line[16:20])
+	distid=line[21:22].strip()
+	eventid=line[22:23].strip()
+	lat=    checknumstr(line[23:30])
+	lon=    checknumstr(line[30:38])
+	depth=  checknumstr(line[38:43])
+	nstat=  checknumstr(line[48:51])
+	rms=    checknumstr(line[51:55])
+	mag1=   checknumstr(line[55:59])
+	mag2=   checknumstr(line[63:67])
+	mag3=   checknumstr(line[71:75])
+	# Convert date numbers to a date-time string
+	dtime="%4d-%02d-%02dT%02d:%02d:%04.1f" % (year,month,day,hour,minute,second)
+	
+	return dtime,distid,eventid,lat,lon,depth,nstat,rms,mag1,mag2,mag3
+#########################################################################
+def stripH(line):
+	year=  toint(line[1:5])
+	month= toint(line[6:8])
+	day=   toint(line[8:10])
+	hour=  toint(line[11:13])
+	minute=toint(line[13:15])
+	second=tofloat(line[16:22])
+	lat=    checknumstr(line[23:32])
+	lon=    checknumstr(line[33:43])
+	depth=  checknumstr(line[44:52])
+	rms=    checknumstr(line[53:59])
+	# Convert date numbers to a date-time string
+	dtime="%4d-%02d-%02dT%02d:%02d:%04.1f" % (year,month,day,hour,minute,second)
+	
+	return dtime,lat,lon,depth,rms
+#########################################################################
+def stripE(line):
+	gap=  checknumstr(line[5:8])
+	terr= checknumstr(line[14:20])
+	yerr= checknumstr(line[24:30])
+	xerr= checknumstr(line[32:38])
+	zerr= checknumstr(line[38:43])
+	covxy=checknumstr(line[43:55])
+	covxz=checknumstr(line[55:67])
+	covyz=checknumstr(line[68:79])
+	return gap,terr,yerr,xerr,zerr,covxy,covxz,covyz
+#########################################################################
+def identifyline(line,prevtype):
+	if (len(line.strip())<1): #& (line[79] not in ['1','2','3','4','5','6','7']):
+		return 0
+	elif prevtype==0:
+		return 1
+	elif ((prevtype==4) | (prevtype==7)):
+		return 4
+	elif len(line)>=80:
+		ich=line[79]
+		if ich in ['1','2','3','4','5','6','7']:
+			return int(ich)
+		elif ich in ['E','I','F','H']:
+			return ich
+	return -1	# Unknown line type
+
+#########################################################################
+if __name__ == "__main__":
+	sys.exit(main())

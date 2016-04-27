@@ -1,0 +1,21 @@
+#!/bin/bash
+
+filein=$1
+
+### Retrieve separators
+
+#sed -n '/>/=' $filein
+num_lines=$( sed -n '/>/=' $filein | wc -l )
+if (( num_lines > 2 ));then
+	echo 'To much Z lines! check input, Warning about 90 degree view'
+	exit
+fi
+start1=`sed -n '/>/=' $filein | awk 'NR==1 {print $0}'`
+start2=`sed -n '/>/=' $filein | awk 'NR==2 {print $0}'`
+start3=`sed -n '/>/=' $filein | awk 'NR==3 {print $0}'`
+
+### Output files
+
+awk -v start1=$start1 -v start2=$start2 'NR>start1 && NR<start2 {print $0}' $filein > MOPAD_sph.txt
+awk -v start2=$start2 -v start3=$start3 'NR>start2 && NR<start3 {print $0}' $filein > MOPAD_qua1.txt
+awk -v start3=$start3 'NR>start3 {print $0}' $filein > MOPAD_qua2.txt

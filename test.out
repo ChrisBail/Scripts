@@ -1,0 +1,116 @@
+ 2008  5 8 1655 41.7 L -14.075 166.993 65.6  VAN 14 0.1 2.3LVAN                1
+ 2008-05-08-1655-43S.VNRC__054_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EPg  0   1656  1.53                             104   -0.0410  128 172 
+ VKOLHBZ  IAML    1656 10.38          30 0.12                           128 172 
+ VANGOBZ EPg  0   1656  2.63                             103    0.0710  136 185 
+ VANGOBZ  IAML    1656  5.03          59 0.18                           136 185 
+ VTURTBZ EPg  0   1656  2.88                             102    0.0910  140 172 
+ VTURTBZ  IAML    1656 14.56          19 0.12                           140 172 
+ VBUTMBZ EPg  0   1656  3.12                             102    0.0510  141 180 
+ VBUTMBZ  IAML    1656  5.61          38 0.16                           141 180 
+ VLEBEBZ EPg  0   1656  3.85                             101   -0.0310  148 182 
+ VLEBEBZ  IAML    1656  9.60          88 0.20                           148 182 
+ VTAMBBZ EPg  0   1656  4.55                             101    0.0710  154 177 
+ VTAMBBZ  IAML    1656 10.03          61 0.20                           154 177 
+ VIRHOBZ EPg  0   1656  4.25                             101   -0.1110  154 172 
+ VIRHOBZ  IAML    1656  5.29          24 0.18                           154 172 
+ VIRHOBZ EPg  4   1657 41.40                             101   97.04 0  154 172 
+ VAVUNBZ  IAML    1656  7.68          28 0.18                           174 175 
+ VSALEBZ EPg  1   1656  6.52                              99   -0.18 7  175 186 
+ VSALEBZ  IAML    1656  6.68          27 0.16                           175 186 
+ VASAVBZ EPg  0   1656  7.76                              98   -0.1910  185 172 
+ VASAVBZ  IAML    1656 15.32          30 0.04                           185 172 
+ VPOTOBZ EPg  0   1656  9.92                              97   -0.0510  203 172 
+ VPOTOBZ  IAML    1656 12.85          22 0.14                           203 172 
+ VESPIBZ EPg  0   1656 10.95                              97    0.1610  211 174 
+ VESPIBZ  IAML    1656 11.28          80 0.10                           211 174 
+ VNARWBZ EPg  0   1656 11.14                              97   -0.0810  214 170 
+ VNARWBZ  IAML    1656 13.65          21 0.12                           214 170 
+ VLAKABZ EPg  0   1656 13.16                              96    0.1710  229 168 
+ VLAKABZ  IAML    1656 14.73          35 0.22                           229 168 
+ VANGO    P   0                                                                 
+ VASAV    P   0                                                                 
+ VAVUN    P   0                                                                 
+ VBOKI    P   0                                                                 
+ VBUTM    P   0                                                                 
+ VEBEN    P   0                                                                 
+ VESPI    P   0                                                                 
+ VIRHO    P   0                                                                 
+ VKOLH    P   0                                                                 
+ VLAKA    P   0                                                                 
+ VLEBE    P   0                                                                 
+ VLEVI    P   0                                                                 
+ VNARW    P   0                                                                 
+ VPOTO    P   0                                                                 
+ VSALE    P   0                                                                 
+ VSARA    P   0                                                                 
+ VSULE    P   0                                                                 
+ VTAMB    P   0                                                                 
+ VTURT    P   0                                                                 
+ VWUSI    P   0                                                                 
+ OS01     P   0                                                                 
+ OS02     P   0                                                                 
+ OS03     P   0                                                                 
+ OS04     P   0                                                                 
+ OS05     P   0                                                                 
+ OS06     P   0                                                                 
+ OS07     P   0                                                                 
+ OS08     P   0                                                                 
+ OS09     P   0                                                                 
+ OS10     P   0                                                                 
+ BKM      P   0                                                                 
+ DVP      P   0                                                                 
+ MLP      P   0                                                                 
+ PVM      P   0                                                                 
+ LPV      P   0                                                                 
+ AMB      P   0                                                                 
+ AMB1     P   0                                                                 
+ DZM      P   0                                                                 
+ MSVF     P   0                                                                 
+ HNR      P   0                                                                 
+ FUNA     P   0                                                                 
+ EIDS     P   0                                                                 
+ VANGO    S   0                                                                 
+ VASAV    S   0                                                                 
+ VAVUN    S   0                                                                 
+ VBOKI    S   0                                                                 
+ VBUTM    S   0                                                                 
+ VEBEN    S   0                                                                 
+ VESPI    S   0                                                                 
+ VIRHO    S   0                                                                 
+ VKOLH    S   0                                                                 
+ VLAKA    S   0                                                                 
+ VLEBE    S   0                                                                 
+ VLEVI    S   0                                                                 
+ VNARW    S   0                                                                 
+ VPOTO    S   0                                                                 
+ VSALE    S   0                                                                 
+ VSARA    S   0                                                                 
+ VSULE    S   0                                                                 
+ VTAMB    S   0                                                                 
+ VTURT    S   0                                                                 
+ VWUSI    S   0                                                                 
+ OS01     S   0                                                                 
+ OS02     S   0                                                                 
+ OS03     S   0                                                                 
+ OS04     S   0                                                                 
+ OS05     S   0                                                                 
+ OS06     S   0                                                                 
+ OS07     S   0                                                                 
+ OS08     S   0                                                                 
+ OS09     S   0                                                                 
+ OS10     S   0                                                                 
+ BKM      S   0                                                                 
+ DVP      S   0                                                                 
+ MLP      S   0                                                                 
+ PVM      S   0                                                                 
+ LPV      S   0                                                                 
+ AMB      S   0                                                                 
+ AMB1     S   0                                                                 
+ DZM      S   0                                                                 
+ MSVF     S   0                                                                 
+ HNR      S   0                                                                 
+ FUNA     S   0                                                                 
+ EIDS     S   0                                                                 
+                                                                                

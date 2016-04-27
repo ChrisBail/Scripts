@@ -1,0 +1,246 @@
+my todo list
+%%%%%%%%%%%%
+
+exist function problem
+- returns true for any directory/file name on path so we need to test
+  for existence only in the current directory (if not absolute)
+  - means appending ./ (for linux) on any relative path
+- possible workaround: ~exist(dir,7) || isempty(xdir(dir))
+
+matio noise function problem
+- noise_process quietly fails if directory has sac files when matio is true
+  - need a way to inform the user of this...
+  - noise_sac2mat could be used...
+
+4 noise codes handle autoxc
+5 noise array phase and attenuation like in prieto 2009
+6 test & tutorials
+7 fss codes
+8 geofss codes (use mmap image option)
+9 test & tutorials
+10 data grabbing codes
+grab_events
+grab_stations
+grab_channels
+grab_responses
+grab_seismograms
+11 tpw
+12 2d inversion on a sphere
+13 reflectivity
+14 parallel version available using comment tags to allow switching
+   % __SEIZMO_PARALLEL__
+   % __SEIZMO_SERIAL__
+   functions
+
+way to make movies while you do other things on the screen:
+## hf = figure(‘visible’, ‘off’)
+## addframe(aviobj, hf)
+
+cmt
+ - neu 2 enu (is this worthwhile?)
+ - plotmt: tpb, nodal line plotting
+ - plotmt3: coloring per mt
+ - isc database
+ - usgs database
+ - mt_nodallines
+
+noise
+ - HARD: overlap option for stack stuff
+ - HARD: better rotate_correlations for processing
+ - check horizontals code
+
+fss
+ - compute spectra not centered on 0,0?
+   - complicates cart2pol & pol2cart
+   - input style: [nsmin nsmax nspts],[esmin esmax espts]
+                  [bazmin bazmax bazpts],[smin smax spts]
+                  smax,[espts nspts]
+                  smax,[spts bazpts]
+                  espts,nspts,spts default to 101
+                  bazpts default to 181
+ - amplitudes of unwhitened, tdss & capon
+   - 1/(2*pi) factor?
+   - power spectral density is scaled by 2*delta/npts (td measures)
+ - half+auto => full for xc when desired
+   - this should just be a function
+ - averaging across frequency (mainly for capon method)
+ - test again!
+geofss
+ - rewrites
+   - geo(fssxc,tdssxc)
+     - antipodal issue?
+ - write
+   - geo(fsshorz,fsshorzxc,tdsshorzxc,arfhorz)
+     - much of this should come from non-geo versions
+ - test!
+
+rotate_correlations
+    - not ready
+      - need single dataset i/o
+      - need horiz autoxc support (3 vs 4 files)
+
+meld
+    - uneven or variable samplerate
+
+rotate
+    - through option
+    - rewrite option code
+
+figure out strange narrow long-period peaks in noise results
+    - window length does not affect it.
+    - response taper affects it?
+    - happens even without response removal?
+    - real signal?
+
+more cmb models (rjk)
+    - we need to allow parameter setting (while loop rather than for)
+        - cell of numbers  {depths/heights  velo%s}
+        - inputs will change per model or series ...
+        - can never really do everything here ... just go for basics
+
+syncsample
+    - 1,2,3,4+ datasets
+    - this will be underneath rotate, meld, rotate_correlations, 
+
+new datasets
+    - natural earth: http://www.naturalearthdata.com/downloads/
+    - gplates stuff
+    - utig plate boundaries: ftp://ftp.ig.utexas.edu/pub/LIPS/Data/plate_boundaries/
+    - seamounts: http://www.soest.hawaii.edu/PT/SMTS/main.html
+    - ml & fz: http://www.soest.hawaii.edu/PT/GSFML/
+    - seafloor age stuff: http://www.earthbyte.org/Research/Current/agegrid2008.html
+    - srtm30plus 7.0
+
+rename to MOSS:
+    Matlab & Octave Seismology Scripts
+    (Easy, Natural, Mo, PASSCAL & OSS ties!)
+add screenshots for newer stuff
+	- better 2pw kernels
+	- cmts on maps, etc
+	- mantle maps & profiles
+	- other mapping features
+	- power spectra
+
+fix doc formatting
+    - examples
+    - description
+fix checkheader calls (and remove redundant checks)
+better versioninfo usage
+    - caching should be dropped in all but the lowest level cases
+    - seizmocheck should be used instead for the most part
+
+improve top-level help file
+    - some intros to basic signal processing tasks, cmts, plotting
+    - walk-thrus of analysis codes
+
+checking needs some tolerance (just too strict...)
+    - delta/b often differ by a neglegible amount
+
+slantstacking
+vespagrams
+writegmt
+historical quakes
+subduction zone contours/sheets
+
+improved plotting
+    - moving into the gui department would be nice for plotting only
+      some records (like for pages of 20 records), changing axes, etc
+    - header info on selection
+	- cmp vs cmp (plot 2 components with time)
+    - particle motion (color changing line to show time progression? how?)
+    - true gui buttons could make this really nice
+		- drop down(s) to select component (!!!)
+		- phase picking
+		- show predicted phase times
+		- so much more...
+
+3cmp support
+    - how do we indicate 3cmp? iftype?
+    - need functions to go from 1-cmp to 3-cmp and back
+    - what to do if not all 3 exist?
+    - this is great for rotations and particle motions
+	- force as ZNE
+	- how to handle gaps/overlaps
+	- how to handle non-synced breaks in components
+	- movies/plots of 3-d particle motion
+	- movies/plots of 2-d particle motion
+
+standard instrument responses database
+    - this leads into inst resp checking
+      ie. this is a STS-2 but the response
+          is not as expected...
+update polezero db
+	- we should keep this external somehow...
+		- installation requires running a cmt update
+		  & a polezero update -- sounds good to me!
+database of station info?
+    - mda query functions...
+    - rdseed 5.0+ pz output has stn info...
+better polezero docs
+	- units of poles and zeros
+		- sac radians
+	- what makes the constant
+		- (2*pi)^(np-nz)
+		- a0 (normalization constant - at wn the transfer function is 1 with a0)
+		- sensor gain (sensitivity - gives appropriate units) 
+		- digitizer gain (volts/bit - bit/volts)
+	- dis 2 vel
+		- add pole at 0
+	- vel 2 dis
+		- add zero at 0
+	- SERIOUSLY FOLKS, why is there not a simple gui for this?
+
+ffmancor
+    - dynamic ray tracing is a must (see princeton group)
+	- stretch/squish gradually starting at some depth
+	- period sets up radial cos
+    - define azimuthal cos
+	- reflect off cmb
+    - can we make this something like 1e-6 s/km^3 ?
+
+sph harm mantle models
+    - really need codes to synthesize info at points
+ani mantle models
+
+picking
+    - better understanding of ppk in SAC
+    - mimic it as much as possible
+autopicking
+    - sta/lta style
+
+glitch & step removal
+    - SAC has glitch detection ... implement it?
+smooth spline removal (requires spline toolbox)
+
+drop restrictive copyright functions
+	buttord2 (edit of buttord)
+	ddendrogram (edit of dendrogram)
+
+slidingavg
+    - nan support
+    - check against other running mean functions
+
+getpeaks
+markpeaks
+basic segy (segy2MAT), ah, miniseed support
+
+OCTAVE SPECIFIC STUFF
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+- error & warning need sprintf support
+- octave-java package issues with Fedora (as root):
+    cd /usr/lib/jvm/
+    ln -s /etc/alternatives/java_sdk default-java
+    cd /usr/lib/jvm/default-java/jre/lib/amd64/
+    ln -s server client
+- no import function
+    - use javaObject & javaMethod
+- concatenation differs if cells & empties involved
+    - avoid multitype concatenation
+- box doesn't take ax (patch applied to devel branch)
+- a(b(end)) fails if a not declared (fix applied to stable branch)
+- addpath works backwards
+- rmpath/unzip etc beat text to the prompt
+- unzip on existing unzipped contents will look stalled
+    - type y/n/A/N to get through it
+- no texlabel
+- no axescheck (use personal axparse function)

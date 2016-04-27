@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+#### Reads nordic file and outputs x y z cxx cyy czz cxy cxz cyz file
+
+filename=$1
+
+##### Convert to xyz
+
+nor2xyz --full $filename | awk -F',' '{print $1,$2,$3,"  ",$7^2,$8^2,$9^2,$17,$18,$19}' 
+

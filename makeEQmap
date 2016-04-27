@@ -1,0 +1,372 @@
+#!/bin/bash
+##
+# Plot: P=place names, 'a'=all stations, 'x'=all stations w/o label
+symbols=a
+#Earthquake colors: 1=blue, 2=green, 3=red, 4=yellow, 5=white, 6=black
+eqcolor=6
+scalebymagrange=y
+mkdir -p tmpdir
+
+case $# in
+0) 
+	echo -n 'Network (or USGS): '
+	read network
+
+
+	echo -n 'Start time (YYYYMM): '
+	read starttime
+	echo -n 'End time (return for end of month):   '
+	read endtime
+	
+	if test -z $endtime; then
+		title="${network} NETWORK, ${starttime} to End Of Month"
+		ftitle="${starttime}_EndOfMonth"
+	else
+		title="${network} NETWORK, ${starttime} to ${endtime}"
+		ftitle="${starttime}_${endtime}"
+	fi
+	
+	echo "Choose map range:"
+	select maprange in LS_Volcano LS_Segment Vanuatu SouthVanuatu NorthVanuatu Shefa Efate Vila SantoMallicoloTight   SantoMallicoloLoose GaueTorres Gaue;
+	do
+		break
+	done
+	if test $network == 'USGS'	; then # Get USGS EQ data
+		#echo "network=$network"
+		case $maprange in
+			Vila | Efate | Shefa)
+				USGSrange=Shefa		# Shefa
+				;;
+			SouthVanuatu )
+				USGSrange=SouthVanuatu		# SouthVanuatu
+				;;
+			NorthVanuatu )
+				USGSrange=NorthVanuatu		# NorthVanuatu
+				;;
+			* )
+				USGSrange=Vanuatu		# Vanuatu
+				;;
+		esac
+		startyear=`echo $starttime | cut -c 1-4`
+		startmonth=`echo $starttime | cut -c 5-6`
+		if test ${#starttime} -gt 8; then
+			startday=`echo $starttime | cut -c 7-8`
+		else
+			startday=01
+		fi
+		if test -z $endtime; then
+			endyear=$startyear
+			endmonth=`echo "$startmonth+1" | bc`
+			endmonth=`printf "%02d" $endmonth`
+			if test $endmonth -eq 13; then
+				endyear=$(($startyear+1))
+				endmonth=01
+			fi
+			endday=01
+		else
+			endyear=`echo $endtime | cut -c 1-4`
+			endmonth=`echo $endtime | cut -c 5-6`
+			if test ${#endtime} -ge 8; then
+				endday=`echo $endtime | cut -c 7-8`
+			else
+				endday=01
+			fi
+		fi
+		echo
+		startdata=${startyear}/${startmonth}/$startday
+		enddata=${endyear}/${endmonth}/$endday
+		echo "Downloading $maprange EQs between $startdata and $enddata ... "
+		getEQs_USGS $startyear $startmonth $startday $endyear $endmonth $endday $USGSrange # &> /dev/null
+		eqfile="EQs_USGS_${ftitle}_${maprange}.xy"		
+		mv USGSdata.csv $eqfile
+		echo "`cat $eqfile | wc -l` events found"
+		maptype=GMT
+	else					# Get SEISAN EQ data
+		echo -n "running collect..."
+		if test -f tmpdir/collect.out ; then rm tmpdir/collect.out ; fi
+		collect << END > tmpdir/collect.out.txt
+$network
+$starttime
+$endtime
+N
+END
+		echo "done"
+		mv collect.out tmpdir/
+		eqfile=tmpdir/collect.out
+		echo "Choose map style:"	
+		select maptype in Operator Publishable GMT;
+		do
+			break
+		done
+	fi
+	;;
+4)
+	eqfile=$1
+	title=$2
+	ftitle=$3
+	maprange=$4
+	maptype="Publishable"
+	if test $eqfile=="*.csv"; then
+		network=USGS
+	fi
+	;;
+*) 
+	echo " $# arguments"
+	echo "Usage: makeEQmap  (runs interactively)"
+	echo "         -or-"
+	echo "       makeEQmap eqfname title ftitle maprange"
+	echo "            eqfname is the name of the collect file or USGS csv file (must end with .csv)"
+	echo "            title   will be the title of the plots"
+	echo "            ftitle  will be stuck in the output filename"
+	echo "            maprange is LSVolcano, Vila, Efate, Shefa..."
+	exit;;
+esac
+
+GMtb='5m'; GMTres='h';
+EQrefsize=1; EQrefmag=7;
+mag1=3; mag2=4; mag3=5; mag4=6; mag5=7;
+case $maprange in
+	LS_Segment )
+		coastMap=${SEISAN_TOP}/DAT/LS_SEGMENT.MAP
+		latbds="36.8 37.8"
+		latgrid="37 0.2"
+		lonbds="-32.8 -31.8"
+		longrid="-32 0.2"
+		GMTrange='-32.8/-31.8/37/37.5'
+		GMTb='10m'
+		GMTres='f'
+		EQrefmag=4;
+		EQrefsize=0.5;
+		mag1=-1; mag2=-0.5; mag3=0; mag4=0.5; mag5=1;
+		 ;;
+	LS_Volcano )
+		coastMap=${SEISAN_TOP}/DAT/LS_VOLCANO.MAP
+		latbds="37.2 37.4"
+		latgrid="37 0.05"
+		lonbds="-32.4 -32.2"
+		longrid="-32 0.05"
+		GMTrange='-32.4/-32.2/37.2/37.4'
+		GMTb='5m'
+		GMTres='f'
+		EQrefmag=1;
+		EQrefsize=0.5;
+		mag1=-1; mag2=-0.5; mag3=0; mag4=0.5; mag5=1;
+		 ;;
+	Vila )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-17.8500 -17.625"
+		latgrid="-17.7 0.1"
+		lonbds="168.175 168.450"
+		longrid="168.2 0.1"
+		GMTrange='168.175/168.450/-17.85/-17.625'
+		GMTb='5m'
+		GMTres='f'
+		EQrefsize=1.5;
+		 ;;
+	Efate )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-18.00 -17.45"
+		latgrid="-17.5 0.1"
+		lonbds="167.95 168.65"
+		longrid="168.0 0.1"
+		GMTrange='167:50/168:40/-18/-17:20'
+		GMTb='10mf5m'
+		GMTres='f'
+		EQrefsize=1;
+		 ;;
+	Shefa )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-18.75 -16.50"
+		latgrid="-18 0.5"
+		lonbds="167.0 169.5"
+		longrid="168.0 0.5" 
+		GMTrange='167/169.5/-18.75/-16.5'
+		GMTb='1f30m'
+		EQrefsize=0.7;
+		 ;;
+	SouthVanuatu )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-20.5 -15.0"
+		latgrid="-18.0 1.0"
+		lonbds="165.0 171.5"
+		longrid="168.0 1.0" 
+		GMTrange='165/171.5/-20.5/-15'
+		GMTb='1f30m'
+		EQrefsize=0.7;
+		 ;;
+	SantoMallicoloTight )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-16.25 -15.05"
+		latgrid="-16 0.2"
+		lonbds="166.4 167.4"
+		longrid="167.0 0.2" 
+		GMTrange='166.4/167.4/-16.25/-15.05'
+		 ;;
+	SantoMallicoloLoose )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-17 -14.8"
+		latgrid="-16 0.5"
+		lonbds="166 168"
+		longrid="167.0 0.5" 
+		GMTrange='166/168/-17/-14.8'
+		GMTb='15m'
+		EQrefsize=1; EQrefmag=4;
+		 ;;
+	NorthVanuatu )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-17 -12.5"
+		latgrid="-16 1"
+		lonbds="165.5 169"
+		longrid="167.0 1" 
+		GMTrange='165.5/169/-17/-12.5'
+		GMTb='1f30m'
+		EQrefsize=0.7;
+		 ;;
+	Vanuatu )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-22 -10"; latgrid="-16 1"
+		lonbds="162 172";   longrid="167.0 1" 
+		GMTrange='162/172/-22/-10'
+		GMTb='1'
+		EQrefsize=0.7;
+		 ;;
+	GaueTorres )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-15 -13"
+		latgrid="-15 0.5"
+		lonbds="166 168"
+		longrid="167.0 0.5" 
+		GMTrange='166/168/-15/-13'
+		GMTb='1f30m'
+		 ;;
+	Gaue )
+		coastMap=${SEISAN_TOP}/DAT/VANUATU_CO.MAP
+		latbds="-14.5 -14"
+		latgrid="-14 0.1"
+		lonbds="167.3 167.8"
+		longrid="167.3 0.1" 
+		GMTrange='167.3/167.8/-14.5/-14'
+		GMTb='5m'
+		EQrefsize=1.5;
+		 ;;
+	* ) echo -n "Invalid map range: $maprange"; exit 1;;
+esac
+
+case $maptype in
+	Operator )
+		enumevnts='y'
+		errorellipses='y'
+		mapfile="EQ_OPERATOR_${ftitle}_${network}_${maprange}_EPIMAP.pdf";;
+	Publishable )
+		enumevnts='n'
+		errorellipses='n'
+		mapfile="EQ_${ftitle}_${network}_${maprange}_EPIMAP.pdf";;
+	GMT )
+		mapbase="epimap_${ftitle}_${network}_${maprange}_GMT";;
+	*) echo -n "Error"; exit 1;;
+esac
+
+#echo maptype=$maptype
+case $maptype in
+	GMT )
+		#echo "Making GMT map"
+		if test $network == "USGS" ; then
+			awk 'BEGIN{FS=","}{printf "%s,%s,%s,%s/%s/%sT%s,%s\n",$6,$5,$8,$1,$2,$3,$4,$7}' $eqfile > tmpdir/eqs.xyz
+			sym='SC'
+		else
+			nor2xyz -f $eqfile > tmpdir/eqs.xyz
+			sym='SC'
+		fi
+		#cat eqs.xyz
+		# PRESENTATION ######################################
+		gmtdefaults -D > .gmtdefaults
+		gmtset ANOT_FONT_SIZE 12
+		gmtset LABEL_FONT_SIZE 10
+		gmtset HEADER_FONT_SIZE 20p
+		gmtset HEADER_OFFSET 0c
+		gmtset BASEMAP_TYPE plain
+		# PREPARATION ######################################
+		# Prepare magnitude legend
+		cat << END > tmpdir/EQ_maglegend.txt
+.5,0.5,1000,,$mag1
+.5,1,1000,,$mag2
+.5,1.5,1000,,$mag3
+.5,2.3,1000,,$mag4
+.5,3,1000,,$mag5
+END
+		# Prepare color scale
+		cat << END > tmpdir/EQ_USGS.cpt
+  0	255	165	0	 33	255	165	0
+ 33	255	255	0	 70	255	255	0
+ 70	0	255	0	150	0	255	0
+150	0	0	255	300	0	0	255
+300	255	0	255	500	255	0	255
+500	255	0	0	800	255	0	0 
+END
+		# Prepare EQ position/mag file
+#BEGIN{multiplier=0.001; base=2; minsize=0.01; maxsize=1; FS=","}
+		cat << END > tmpdir/EQ_makexyz.awk
+BEGIN{ base=2.5; minsize=0.02; scale=refsize/(base^refmag); FS=",";}
+{
+	lat=\$2;lon=\$1;mag=\$5;depth=\$3;
+	size=scale*(base^mag);
+	if (size<minsize) size=minsize;
+	if (lat>-900) print lon, lat, depth,size,mag
+}
+END
+		# Convert earthquake list to a good input to psxy
+		awk -v refsize=$EQrefsize -v refmag=$EQrefmag -f tmpdir/EQ_makexyz.awk tmpdir/eqs.xyz > tmpdir/eqs.inp
+		# Do same for legend
+		awk -v refsize=$EQrefsize -v refmag=$EQrefmag -f tmpdir/EQ_makexyz.awk tmpdir/EQ_maglegend.txt > tmpdir/legend_mag.xy
+		awk -F, '{print $1, $2,"10 0 1 LM",$5}' tmpdir/EQ_maglegend.txt > tmpdir/legend_mag.xyt
+		psbasemap -JM15c -R$GMTrange -B${GMTb}:."$title":WeSn -K  > ${mapbase}.ps
+		# Add colored islands
+		pscoast -JM -R -D$GMTres -G202/175/120 -S220/220/255 -O -K  >> ${mapbase}.ps
+		# Add earthquakes
+		psxy tmpdir/eqs.inp -JM -R -Ctmpdir/EQ_USGS.cpt -$sym -W0.2p -O -K >> ${mapbase}.ps
+		# Add coast outlines
+		pscoast -JM -R -D$GMTres -W1 -O -K  >> ${mapbase}.ps
+		# Add plate boundaries
+		#echo "PBtoGMT.py $lonbds $latbds > tmpdir/platebounds.xy"
+		PBtoGMT.py $lonbds $latbds > tmpdir/platebounds.xy
+		psxy tmpdir/platebounds.xy -JM -R -M -W2 -O -K  >> ${mapbase}.ps
+		# The depth scale
+		gmtset ANOT_FONT_SIZE 10
+		psscale -D15.5c/8.5c/-3c/0.25c  -Ctmpdir/EQ_USGS.cpt -B:.Depth::km: -L -O -K >> ${mapbase}.ps
+		# Add magnitude legend
+		psxy tmpdir/legend_mag.xy -JX2/5 -R0/1/0/4 -Ctmpdir/EQ_USGS.cpt -$sym -W0.2p -X15.3 -O -K >> ${mapbase}.ps
+		pstext tmpdir/legend_mag.xyt -JX -R -Dj0.5/0 -O >> ${mapbase}.ps
+
+		ps2pdf ${mapbase}.ps
+		echo "Map written to $mapbase.pdf"
+		open ${mapbase}.pdf &
+		rm ${mapbase}.ps
+		;;
+	* )
+		epimap << END > tmpdir/epimap.out.txt
+2
+$latbds
+$lonbds
+
+$latgrid
+$longrid
+$enumevnts
+$coastMap
+
+$title
+$errorellipses
+
+$symbols
+$eqfile $eqcolor
+
+$scalebymagrange
+END
+
+		ps2pdf epimap.eps $mapfile
+		mv epimap.inp tmpdir/epimap.inp
+		rm epimap.*
+		echo "Map written to $mapfile"
+		;;
+esac
+#rm -f tmpdir
+

@@ -1,0 +1,12 @@
+#!/bin/bash
+# $Id: pdf2eps,v 0.01 2005/10/28 00:55:46 Herbert Voss Exp $
+# Convert PDF to encapsulated PostScript.
+# usage:
+# pdf2eps <page number> <pdf file without ext>
+
+pdfcrop $1.pdf $1_crip.pdf
+pdf2ps $1_crip.pdf $1_crip.ps
+ps2eps -f $1_crip.ps 
+mv $1_crip.eps $1.eps
+rm -f $1_crip.ps
+rm -f $1_crip.pdf 

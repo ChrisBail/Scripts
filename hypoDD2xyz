@@ -1,0 +1,19 @@
+#!/bin/bash
+
+###############################################################
+## Usage: hypoDD2xyz hypoDDlocfile
+if [ $# -ne 1 ]
+then
+  echo "hypoDD2xyz: Converts a hypoDD location file to 'X Y Z time magnitude xerr(km) yerr(km) zerr(km)' format"
+  echo "Usage: `basename $0` hypoDDlocfile"
+  echo "        where hypoDDlocfile     is a hypoDD hypocenter output file"
+  exit -1
+fi
+# Input files
+hypfile=$1
+#Convert HypoDD file to xyz
+cat << END > tmp.awk 
+{ printf "%12s %11s %7s  %04d-%02d-%02dT%02d:%02d:%s %8g %8g %8g %8s  -999 %6s\n",\$3,\$2,\$4,\$11,\$12,\$13,\$14,\$15,\$16,\$17,\$8/1000.,\$9/1000.,\$10/1000.,\$23
+}
+END
+awk -f tmp.awk $hypfile

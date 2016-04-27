@@ -1,0 +1,16 @@
+Please refer to the ms_picker manual "manual.pdf" in this directory
+for installation and instructions of software use.
+
+Example of parameter file contents:
+
+# parameter file for sta/lta automatic picker ("ms_picker")
+# <station> <trigger level> <sta (s)> <lta (s)> <dead time (s)> <high pass (Hz)> <low pass (Hz)>
+# station name "*" matches all stations unless specfied with correct name in mseed header
+#
+* 10.0 1.0 30.0 30.0 1.0 12.0
+
+The following paper describes the methodology and citing this would be appropriate:
+
+S.E.J. Nippress, A. Rietbrock & A.E. Heath,
+"Optimized automatic pickers: Application to the ANCORP dataset",
+Geophys. J. Int., 2010.

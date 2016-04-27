@@ -1,0 +1,5 @@
+- smash any bugs since latest release
+- taup applet needs to have path interpolation (tell Philip)
+- path wave type (isshear)
+- path wave type conversion (isconvert)
+- path leg name ('P' 'K' 'I' '^660')

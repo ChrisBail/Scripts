@@ -1,0 +1,2119 @@
+ 2008  6 1  0 3 53.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601000353     I
+ 2008-06-01-0003-53S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   2A   0 4 15.01   54              -1.0                             
+ VASAVBZ ES   1A   0 4 51.11                                                    
+ VAVUNBZ EP   1A   0 4 14.81   21              -1.0                             
+ VBUTMBZ EP   0A   0 4 14.31   31              -1.0                             
+ VBUTMBZ ES   3A   0 4 26.91                                                    
+ VIRHOBZ EP   1A   0 4 13.21   25              -1.0                             
+ VKOLHBZ EP   0A   0 4 13.71   27              -1.0                             
+ VKOLHBZ ES   3A   0 4 25.61                                                    
+ VSARABZ EP   0A   0 4 14.41   73              -1.0                             
+ VSARABZ ES   2A   0 4 27.11                                                    
+ VTAMBBZ EP   0A   0 4 14.01   36              -1.0                             
+ VTAMBBZ ES   2A   0 4 26.01                                                    
+ VTURTBZ EP   1A   0 4 13.41   90              -1.0                             
+ VTURTBZ ES   3A   0 4 25.01                                                    
+                                                                                
+ 2008  6 1  013 41.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601001341     I
+ 2008-06-01-0013-41S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   1A   014  0.71   24              -1.0                             
+ VBUTMBZ EP   2A   014  7.91   77              -1.0                             
+ VTAMBBZ EP   2A   014 38.61   54              -1.0                             
+                                                                                
+ 2008  6 1  029 19.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601002919     I
+ 2008-06-01-0029-19S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   1A   029 37.91   93              -1.0                             
+ VSARABZ EP   2A   029 38.81   92              -1.0                             
+                                                                                
+ 2008  6 1  033 12.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601003312     I
+ 2008-06-01-0033-12S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1  041 48.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601004148     I
+ 2008-06-01-0041-48S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   2A   042  9.71   89              -1.0                             
+ VEBENBZ EP   0A   042 31.61   68              -1.0                             
+ VEBENBZ ES   2A   043 32.51                                                    
+ VSARABZ EP   1A   043  0.01   98              -1.0                             
+ VSARABZ ES   2A   043 37.91                                                    
+                                                                                
+ 2008  6 1  044 37.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601004437     I
+ 2008-06-01-0044-37S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VSARABZ EP   2A   044 58.51   25              -1.0                             
+                                                                                
+ 2008  6 1  1 0 29.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601010029     I
+ 2008-06-01-0100-29S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VIRHOBZ EP   1A   1 0 50.01   72              -1.0                             
+ VIRHOBZ ES   2A   1 0 55.31                                                    
+ VLEBEBZ EP   2A   1 0 53.71   66              -1.0                             
+ VSARABZ EP   1A   1 0 49.51   16              -1.0                             
+ VTAMBBZ EP   2A   1 0 49.11   16              -1.0                             
+ VTURTBZ EP   1A   1 0 49.41    7              -1.0                             
+                                                                                
+ 2008  6 1  1 5  2.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601010502     I
+ 2008-06-01-0105-02S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   1 5 24.31   81              -1.0                             
+ VANGOBZ ES   3A   1 5 36.81                                                    
+ VASAVBZ EP   0A   1 5 27.81   68              -1.0                             
+ VASAVBZ ES   2A   1 5 41.71                                                    
+ VAVUNBZ EP   0A   1 5 26.41   80              -1.0                             
+ VAVUNBZ ES   2A   1 5 40.61                                                    
+ VBUTMBZ EP   0A   1 5 23.81   69              -1.0                             
+ VBUTMBZ ES   2A   1 5 35.81                                                    
+ VEBENBZ EP   2A   1 5 27.11   71              -1.0                             
+ VESPIBZ EP   0A   1 5 31.01   71              -1.0                             
+ VESPIBZ ES   2A   1 5 47.71                                                    
+ VIRHOBZ EP   0A   1 5 24.11   77              -1.0                             
+ VIRHOBZ ES   2A   1 5 36.11                                                    
+ VKOLHBZ EP   0A   1 5 22.11   84              -1.0                             
+ VKOLHBZ ES   2A   1 5 32.51                                                    
+ VLEBEBZ EP   0A   1 5 24.71   89              -1.0                             
+ VLEBEBZ ES   2A   1 5 37.01                                                    
+ VNARWBZ EP   1A   1 6 53.21    1              -1.0                             
+ VPOTOBZ EP   0A   1 5 29.71   84              -1.0                             
+ VPOTOBZ ES   3A   1 5 46.11                                                    
+ VSALEBZ EP   1A   1 5 28.41   27              -1.0                             
+ VSARABZ EP   0A   1 5 22.91   79              -1.0                             
+ VSULEBZ EP   0A   1 5 27.41   68             259.0                             
+ VTAMBBZ EP   1A   1 5 25.41   89              -1.0                             
+ VTAMBBZ ES   2A   1 5 37.11                                                    
+ VTURTBZ EP   0A   1 5 23.11   65              -1.0                             
+ VTURTBZ ES   3A   1 5 34.41                                                    
+ VWUSIBZ EP   0A   1 5 26.31   71             219.0  9.9                        
+                                                                                
+ 2008  6 1  115 19.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601011519     I
+ 2008-06-01-0115-19S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   115 57.11   39              -1.0                             
+ VASAVBZ EP   1A   115 40.51   80              -1.0                             
+ VASAVBZ ES   2A   115 54.41                                                    
+ VAVUNBZ EP   1A   115 40.91   26              -1.0                             
+ VAVUNBZ ES   2A   115 55.21                                                    
+ VBUTMBZ EP   1A   115 54.61   67              -1.0                             
+ VIRHOBZ EP   1A   115 39.61   34              -1.0                             
+ VIRHOBZ ES   2A   115 52.31                                                    
+ VKOLHBZ EP   1A   115 40.11   47              -1.0                             
+ VKOLHBZ ES   2A   115 53.41                                                    
+ VLEBEBZ EP   1A   115 55.81    7              -1.0                             
+ VPOTOBZ EP   1A   115 41.71   89              -1.0                             
+ VPOTOBZ ES   2A   115 57.41                                                    
+ VSARABZ EP   0A   115 40.71   90              -1.0                             
+ VSARABZ ES   2A   115 55.11                                                    
+ VTAMBBZ EP   2A   115 40.31   23                                               
+ VTAMBBZ ES   2A   115 53.91                  172.0                             
+ VTURTBZ EP   1A   115 52.81   66             228.0                             
+ VTURTBZ ES   3A   116 46.51                                                    
+                                                                                
+ 2008  6 1  124 17.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601012417     I
+ 2008-06-01-0124-17S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   124 37.61   76              -1.0                             
+ VANGOBZ ES   2A   124 43.51                                                    
+ VIRHOBZ EP   2A   124 41.71   20              -1.0                             
+ VIRHOBZ ES   2A   124 49.31                                                    
+ VKOLHBZ EP   0A   124 38.21   36              -1.0                             
+ VKOLHBZ ES   1A   124 44.21                                                    
+ VLEBEBZ EP   1A   124 45.81   83              -1.0                             
+ VSARABZ EP   0A   124 36.91   89              -1.0                             
+ VSARABZ ES   3A   124 42.41                                                    
+ VSULEBZ EP   1A   124 53.61    7             283.0                             
+ VTURTBZ EP   1A   124 46.21   83             270.0                             
+                                                                                
+ 2008  6 1  2 3 29.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601020329     I
+ 2008-06-01-0203-29S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   2 3 52.21   65              -1.0                             
+ VASAVBZ EP   1A   2 3 54.11   25              -1.0                             
+ VAVUNBZ EP   0A   2 3 53.61   85             270.0 19.6                        
+ VAVUNBZ ES   3A   2 4 10.71                                                    
+ VBUTMBZ EP   1A   2 3 52.01   83              -1.0                             
+ VBUTMBZ ES   3A   2 4  7.41                                                    
+ VESPIBZ EP   2A   2 3 45.11   45             210.0                             
+ VIRHOBZ EP   0A   2 3 51.61   73              -1.0                             
+ VIRHOBZ ES   2A   2 4  6.71                                                    
+ VKOLHBZ EP   0A   2 3 50.51   56              -1.0                             
+ VKOLHBZ ES   2A   2 4  4.71                                                    
+ VLAKABZ EP   1A   2 4 23.61   20              -1.0                             
+ VLEBEBZ EP   1A   2 3 52.31   73              -1.0                             
+ VLEBEBZ ES   2A   2 4  8.61                                                    
+ VSARABZ EP   0A   2 3 51.21   55             174.0  5.6                        
+ VSARABZ ES   3A   2 4  6.41                                                    
+ VSULEBZ EP   1A   2 3 54.21   81              -1.0                             
+ VTAMBBZ EP   1A   2 3 52.31   53              -1.0                             
+ VTAMBBZ ES   2A   2 4  7.91                                                    
+ VTURTBZ EP   0A   2 3 51.11   81              -1.0                             
+                                                                                
+ 2008  6 1  2 8 35.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601020835     I
+ 2008-06-01-0208-35S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   2 9  7.31   80              -1.0                             
+ VIRHOBZ EP   1A   2 9  9.31   78              -1.0                             
+ VKOLHBZ EP   0A   2 9  5.71   79              -1.0                             
+ VKOLHBZ ES   2A   2 9 19.91                                                    
+ VLAKABZ EP   0A   2 9 56.51    2              -1.0                             
+ VSARABZ EP   1A   2 9  5.91   64              -1.0                             
+ VTURTBZ EP   1A   2 9  7.41   80              -1.0                             
+                                                                                
+ 2008  6 1  242 59.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601024259     I
+ 2008-06-01-0242-59S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VSULEBZ EP   1A   243 24.31   68             317.0  5.2                        
+ VWUSIBZ EP   1A   243 34.91    5              -1.0                             
+                                                                                
+ 2008  6 1  252  9.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601025209     I
+ 2008-06-01-0252-09S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EP   2A   252 30.31   26              -1.0                             
+                                                                                
+ 2008  6 1  257 19.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601025719     I
+ 2008-06-01-0257-19S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   2A   258  9.71    8              -1.0                             
+ VIRHOBZ EP   2A   257 54.11   61              -1.0                             
+ VIRHOBZ ES   2A   258  6.51                                                    
+ VKOLHBZ EP   1A   258  8.41    9              -1.0                             
+ VLEBEBZ EP   1A   258 10.81    8              -1.0                             
+ VSARABZ EP   0A   257 55.31   66              -1.0                             
+ VSARABZ ES   2A   258 10.31                                                    
+ VTURTBZ EP   2A   257 54.11   77              -1.0                             
+                                                                                
+ 2008  6 1  319 30.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601031930     I
+ 2008-06-01-0319-30S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   320  6.21   59              -1.0                             
+ VBUTMBZ EP   1A   320  5.11   42              -1.0                             
+ VIRHOBZ EP   1A   320  4.71   41              -1.0                             
+ VKOLHBZ EP   2A   320  2.71    8              -1.0                             
+ VLEBEBZ EP   2A   320  6.21    8              -1.0                             
+ VSARABZ EP   1A   319 50.11   72              -1.0                             
+ VSARABZ ES   2A   320  3.61                                                    
+                                                                                
+ 2008  6 1  327 51.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601032751     I
+ 2008-06-01-0327-51S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VIRHOBZ EP   1A   328 23.71   74              -1.0                             
+ VIRHOBZ ES   2A   328 55.11                                                    
+ VKOLHBZ EP   2A   328 52.41   42              -1.0                             
+ VLAKABZ EP   0A   328 18.81   15               3.0                             
+ VLEBEBZ EP   2A   328 25.31   74              -1.0                             
+ VLEBEBZ ES   1A   328 55.91                                                    
+                                                                                
+ 2008  6 1  328 33.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601032833     I
+ 2008-06-01-0328-33S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EP   2A   328 52.31   41              -1.0                             
+ VLEBEBZ EP   0A   328 55.91   46              -1.0                             
+                                                                                
+ 2008  6 1  343 56.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601034356     I
+ 2008-06-01-0343-56S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   344 20.61   22              -1.0                             
+ VBUTMBZ EP   0A   344 20.91   87              -1.0                             
+ VBUTMBZ ES   2A   344 25.51                                                    
+ VIRHOBZ EP   1A   344 23.41   77              -1.0                             
+ VIRHOBZ ES   2A   344 29.51                                                    
+ VKOLHBZ EP   1A   344 21.61   86              -1.0                             
+ VKOLHBZ ES   1A   344 26.31                                                    
+ VLEBEBZ EP   0A   344 26.21   18              -1.0                             
+ VSARABZ EP   0A   344 20.31   29              -1.0                             
+ VSARABZ ES   2A   344 24.31                                                    
+ VTURTBZ EP   2A   344 27.11    9              -1.0                             
+                                                                                
+ 2008  6 1  347 53.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601034753     I
+ 2008-06-01-0347-53S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1  358 39.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601035839     I
+ 2008-06-01-0358-39S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VSARABZ EP   0A   358 58.71   92              -1.0                             
+ VTURTBZ EP   2A   359 16.81   63              -1.0                             
+                                                                                
+ 2008  6 1  4 5 42.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601040542     I
+ 2008-06-01-0405-42S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   4 6  3.51   44              -1.0                             
+ VASAVBZ EP   1A   4 6 30.01   64              -1.0                             
+ VAVUNBZ EP   1A   4 6  5.51   55              -1.0                             
+ VAVUNBZ ES   3A   4 6 29.51                                                    
+ VBUTMBZ EP   0A   4 6  3.31   90              -1.0                             
+ VBUTMBZ ES   2A   4 6 24.91                                                    
+ VIRHOBZ EP   0A   4 6  3.21   85             210.0 15.4                        
+ VIRHOBZ ES   2A   4 6 24.91                                                    
+ VKOLHBZ EP   0A   4 6  1.91   92              -1.0                             
+ VKOLHBZ ES   2A   4 6 22.31                                                    
+ VLEBEBZ EP   0A   4 6 26.11   52              -1.0                             
+ VSARABZ EP   0A   4 6  2.31   82             176.0  6.5                        
+ VSARABZ ES   2A   4 6 23.71                                                    
+ VSULEBZ EP   0A   4 6  5.31   55              -1.0                             
+ VTAMBBZ EP   0A   4 6 26.11   89              -1.0                             
+ VTURTBZ EP   2A   4 6  3.11   85              -1.0                             
+ VTURTBZ ES   2A   4 6 23.61                                                    
+ VWUSIBZ EP   0A   4 6  4.41   76              -1.0                             
+ VWUSIBZ ES   2A   4 6 27.11                                                    
+                                                                                
+ 2008  6 1  414 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601041428     I
+ 2008-06-01-0414-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   2A   415 21.01   59                                               
+ VESPIBZ ES   2A   416  8.11                  246.0                             
+ VLAKABZ EP   0A   415 17.01    2              36.0                             
+                                                                                
+ 2008  6 1  414 57.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601041457     I
+ 2008-06-01-0414-57S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   2A   415 21.01   49                                               
+ VESPIBZ ES   2A   416  8.11                  246.0                             
+ VLAKABZ EP   0A   415 17.01   92              36.0                             
+ VTURTBZ EP   1A   416 46.61    2              -1.0                             
+                                                                                
+ 2008  6 1  429  2.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601042902     I
+ 2008-06-01-0429-02S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   429 24.11   77              -1.0                             
+ VBUTMBZ EP   2A   429 23.41   66              -1.0                             
+ VKOLHBZ EP   1A   429 21.91   47              -1.0                             
+ VKOLHBZ ES   2A   429 37.31                                                    
+ VSARABZ EP   1A   429 22.51   78              -1.0                             
+ VSARABZ ES   3A   429 38.51                                                    
+ VTAMBBZ EP   2A   430 21.01   24              -1.0                             
+ VTURTBZ EP   1A   429 22.41   92              -1.0                             
+ VTURTBZ ES   3A   429 38.01                                                    
+                                                                                
+ 2008  6 1  446  9.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601044609     I
+ 2008-06-01-0446-09S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EP   1A   446 29.91   77              -1.0                             
+ VSULEBZ EP   1A   447 33.31    2              -1.0                             
+ VWUSIBZ EP   1A   447 37.41   24              -1.0                             
+ VWUSIBZ ES   1A   447 58.51                                                    
+                                                                                
+ 2008  6 1  449 40.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601044940     I
+ 2008-06-01-0449-40S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   1A   451  1.41   31             269.0                             
+ VKOLHBZ EP   2A   450  8.51   43              -1.0                             
+ VLAKABZ EP   2A   450 13.71   18              -1.0                             
+ VSARABZ EP   2A   450  8.71   43              -1.0                             
+                                                                                
+ 2008  6 1  5 5 36.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601050536     I
+ 2008-06-01-0505-36S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   5 5 58.81   74              -1.0                             
+ VAVUNBZ EP   1A   5 5 56.81   91              -1.0                             
+ VBUTMBZ EP   1A   5 5 57.91   25              -1.0                             
+ VESPIBZ EP   1A   5 5 56.91   91                                               
+ VESPIBZ ES   2A   5 7 17.51                  239.0                             
+ VIRHOBZ EP   1A   5 5 56.31   92              -1.0                             
+ VKOLHBZ EP   0A   5 5 57.21   73              -1.0                             
+ VLEBEBZ EP   1A   5 5 58.21   77              -1.0                             
+ VNARWBZ EP   2A   5 6 15.51    4              -1.0                             
+ VPOTOBZ EP   0A   5 5 56.71   91              -1.0                             
+ VPOTOBZ ES   2A   5 6 14.01                                                    
+ VSARABZ EP   0A   5 5 58.11   89              -1.0                             
+ VSARABZ ES   3A   5 6 17.01                                                    
+ VTURTBZ EP   2A   5 5 50.21   77              -1.0                             
+                                                                                
+ 2008  6 1  5 7  9.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601050709     I
+ 2008-06-01-0507-09S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   2A   5 8 56.51   12              -1.0                             
+                                                                                
+ 2008  6 1  511 50.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601051150     I
+ 2008-06-01-0511-50S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   1A   512 19.01   69              -1.0                             
+                                                                                
+ 2008  6 1  535 56.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601053556     I
+ 2008-06-01-0535-56S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   2A   536 35.91   72              -1.0                             
+ VIRHOBZ EP   2A   536 33.71   13              -1.0                             
+ VLAKABZ EP   2A   536 52.81   28              -1.0                             
+ VSARABZ EP   1A   536 25.01   83              -1.0                             
+ VSARABZ ES   3A   536 37.71                                                    
+                                                                                
+ 2008  6 1  553  9.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601055309     I
+ 2008-06-01-0553-09S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   2A   554 34.51   12             256.0                             
+ VSARABZ EP   0A   553 28.91   41              -1.0                             
+                                                                                
+ 2008  6 1  6 9 57.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601060957     I
+ 2008-06-01-0609-57S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   2A   611 35.31   83              -1.0                             
+                                                                                
+ 2008  6 1  627 33.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601062733     I
+ 2008-06-01-0627-33S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VPOTOBZ EP   2A   627 54.61   90              -1.0                             
+ VSARABZ EP   0A   627 54.91   90              -1.0                             
+ VSARABZ ES   2A   629  2.31                                                    
+                                                                                
+ 2008  6 1  630 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601063045     I
+ 2008-06-01-0630-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   631  9.51   76              -1.0                             
+ VANGOBZ ES   2A   631 26.71                                                    
+ VASAVBZ EP   0A   631  7.31   63              -1.0                             
+ VASAVBZ ES   2A   631 22.11                                                    
+ VAVUNBZ EP   0A   631  7.11   64             270.0 10.7                        
+ VAVUNBZ ES   3A   631 23.41                                                    
+ VBUTMBZ EP   0A   631  7.61   57               1.0  9.2                        
+ VBUTMBZ ES   2A   631 24.11                                                    
+ VEBENBZ EP   1A   631  9.41   88              -1.0                             
+ VESPIBZ EP   0A   631  8.61   88              -1.0                             
+ VESPIBZ ES   3A   631 25.61                                                    
+ VIRHOBZ EP   0A   631  5.91   86             302.0 11.1                        
+ VIRHOBZ ES   2A   631 21.21                                                    
+ VKOLHBZ EP   0A   631  6.51   82              -1.0                             
+ VKOLHBZ ES   2A   631 22.81                                                    
+ VLEBEBZ EP   0A   631  8.21   86              -1.0                             
+ VLEBEBZ ES   2A   631 25.31                                                    
+ VNARWBZ EP   0A   631  8.21   89              -1.0                             
+ VNARWBZ ES   2A   631 24.31                                                    
+ VPOTOBZ EP   0A   631  7.61   58              -1.0                             
+ VPOTOBZ ES   2A   631 24.11                                                    
+ VSALEBZ EP   1A   631 10.01   87              -1.0                             
+ VSARABZ EP   0A   631  7.91   64              -1.0                             
+ VSARABZ ES   2A   631 24.71                                                    
+ VSULEBZ EP   0A   631 11.11   62              -1.0                             
+ VTAMBBZ EP   0A   631  6.81   87               7.0                             
+ VTAMBBZ ES   1A   631 22.71                                                    
+ VTURTBZ EP   0A   631  6.21   90              -1.0                             
+ VTURTBZ ES   2A   631 21.91                                                    
+ VWUSIBZ EP   0A   631 11.11   48              -1.0                             
+                                                                                
+ 2008  6 1  658 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601065822     I
+ 2008-06-01-0658-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   658 44.11   30              -1.0                             
+ VAVUNBZ EP   1A   658 45.71   28              -1.0                             
+ VBUTMBZ EP   0A   658 43.91   35              -1.0                             
+ VIRHOBZ EP   0A   658 43.61   89             216.0 13.0                        
+ VKOLHBZ EP   1A   658 42.51   92              -1.0                             
+ VLAKABZ EP   2A   659 51.91  -89              -1.0                             
+ VLEBEBZ EP   0A   658 44.31   46              -1.0                             
+ VLEBEBZ ES   3A   659  0.01                                                    
+ VPOTOBZ EP   1A   658 48.21   23              -1.0                             
+ VSARABZ EP   1A   658 43.21   19              -1.0                             
+ VTURTBZ EP   1A   658 43.01   17              -1.0                             
+                                                                                
+ 2008  6 1  7 7 13.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601070713     I
+ 2008-06-01-0707-13S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   1A   7 7 49.71   75              -1.0                             
+ VESPIBZ ES   3A   7 8 24.61                                                    
+ VLEBEBZ EP   1A   7 7 56.01   60             268.0  6.5                        
+ VLEVIBZ EP   1A   7 7 50.31   74              -1.0                             
+                                                                                
+ 2008  6 1  710  2.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601071002     I
+ 2008-06-01-0710-02S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   710 41.11   33              -1.0                             
+ VAVUNBZ EP   2A   710 23.51   24              -1.0                             
+ VBUTMBZ EP   1A   710 23.41   40              -1.0                             
+ VBUTMBZ ES   2A   710 38.31                                                    
+ VIRHOBZ EP   1A   710 22.01   25              -1.0                             
+ VKOLHBZ EP   2A   710 37.01   52              -1.0                             
+ VKOLHBZ ES   2A   711 20.31                                                    
+ VLEBEBZ EP   1A   710 23.71   65              -1.0                             
+ VPOTOBZ EP   1A   710 24.21   24              -1.0                             
+ VSARABZ EP   0A   710 23.31   91              -1.0                             
+ VSARABZ ES   2A   711 38.21                                                    
+ VTAMBBZ EP   1A   710 14.61   29              -1.0                             
+ VTAMBBZ ES   3A   710 37.41                                                    
+ VTURTBZ EP   2A   710 22.31   16              -1.0                             
+                                                                                
+ 2008  6 1  730 57.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601073057     I
+ 2008-06-01-0730-57S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   731 17.51   98              -1.0                             
+ VANGOBZ ES   3A   731 32.11                                                    
+ VASAVBZ EP   2A   731 26.51   31              -1.0                             
+ VASAVBZ ES   1A   731 43.11                                                    
+ VAVUNBZ EP   0A   731 23.51   49              -1.0                             
+ VAVUNBZ ES   2A   731 40.01                                                    
+ VBUTMBZ EP   0A   731 18.11   91              -1.0                             
+ VBUTMBZ ES   3A   731 31.81                                                    
+ VEBENBZ EP   2A   731 39.01   57              -1.0                             
+ VESPIBZ EP   0A   731 29.01   80              -1.0                             
+ VESPIBZ ES   2A   731 48.81                                                    
+ VIRHOBZ EP   0A   731 20.41   83             170.0  6.5                        
+ VKOLHBZ EP   0A   731 17.21   76              -1.0                             
+ VKOLHBZ ES   3A   731 27.71                                                    
+ VLEBEBZ EP   0A   731 19.11   80              -1.0                             
+ VLEBEBZ ES   3A   731 34.01                                                    
+ VNARWBZ EP   2A   731 30.01   77              -1.0                             
+ VPOTOBZ EP   0A   731 28.11   50              -1.0                             
+ VPOTOBZ ES   2A   731 48.01                                                    
+ VSALEBZ EP   2A   731 25.51   71              -1.0                             
+ VSARABZ EP   0A   731 16.11   77              -1.0                             
+ VSULEBZ EP   0A   731 23.51   41              -1.0                             
+ VTAMBBZ EP   1A   731 20.71   86              -1.0                             
+ VTURTBZ EP   0A   731 18.91   90              -1.0                             
+ VTURTBZ ES   3A   731 30.71                                                    
+ VWUSIBZ EP   0A   731 19.61   65             214.0  6.5                        
+ VWUSIBZ ES   2A   731 35.71                                                    
+                                                                                
+ 2008  6 1  736 18.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601073618     I
+ 2008-06-01-0736-18S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   736 42.71   26              -1.0                             
+ VANGOBZ ES   1A   736 59.51                                                    
+ VAVUNBZ EP   1A   736 42.71   61              -1.0                             
+ VAVUNBZ ES   2A   737  2.91                                                    
+ VBUTMBZ EP   2A   737  0.01   68              -1.0                             
+ VIRHOBZ EP   1A   736 41.91   42              -1.0                             
+ VIRHOBZ ES   2A   736 59.11                                                    
+ VKOLHBZ EP   0A   736 56.71   42              -1.0                             
+ VLEBEBZ EP   1A   736 42.81   87              -1.0                             
+ VLEBEBZ ES   1A   737  0.31                                                    
+ VSARABZ EP   0A   736 41.31   60              -1.0                             
+ VSARABZ ES   1A   736 57.61                                                    
+ VTURTBZ EP   1A   736 31.81   92              -1.0                             
+                                                                                
+ 2008  6 1  742  3.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601074203     I
+ 2008-06-01-0742-03S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   742 24.51   62              -1.0                             
+ VANGOBZ ES   2A   742 40.81                                                    
+ VAVUNBZ EP   1A   742 25.51   43              -1.0                             
+ VAVUNBZ ES   2A   742 42.41                                                    
+ VBUTMBZ EP   0A   742 24.11   91              -1.0                             
+ VBUTMBZ ES   2A   742 39.81                                                    
+ VIRHOBZ EP   0A   742 23.71   41              -1.0                             
+ VIRHOBZ ES   3A   742 39.31                                                    
+ VKOLHBZ EP   2A   742 23.11   34              -1.0                             
+ VLEBEBZ EP   0A   742 24.61   48              -1.0                             
+ VLEBEBZ ES   3A   742 41.11                                                    
+ VPOTOBZ EP   1A   742 27.61   33              -1.0                             
+ VSARABZ EP   0A   742 20.91   90              -1.0                             
+ VSARABZ ES   2A   743 47.51                                                    
+ VTURTBZ EP   0A   742 23.21   92              -1.0                             
+ VTURTBZ ES   2A   742 38.11                                                    
+                                                                                
+ 2008  6 1  747  5.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601074705     I
+ 2008-06-01-0747-05S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   747 57.21   60              -1.0                             
+ VSARABZ EP   0A   747 17.21   80              -1.0                             
+                                                                                
+ 2008  6 1  747 35.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601074735     I
+ 2008-06-01-0747-35S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   747 57.21   20              -1.0                             
+ VSARABZ EP   2A   749  1.01    7              -1.0                             
+ VSARABZ ES   2A   749  7.21                                                    
+                                                                                
+ 2008  6 1  754 17.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601075417     I
+ 2008-06-01-0754-17S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   0A   755 38.51    3              34.0                             
+ VSARABZ EP   1A   754 38.31   91              -1.0                             
+ VSARABZ ES   1A   755 28.41                                                    
+ VTAMBBZ EP   2A   755 39.41   24              -1.0                             
+                                                                                
+ 2008  6 1  757 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601075745     I
+ 2008-06-01-0757-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VIRHOBZ EP   1A   758  7.11   52              -1.0                             
+ VLEBEBZ EP   1A   758  7.61   52              -1.0                             
+ VLEBEBZ ES   2A   758 22.51                                                    
+ VNARWBZ EP   2A   758 33.81   23              -1.0                             
+ VSARABZ EP   1A   758  6.31   91              -1.0                             
+ VSARABZ ES   3A   759 37.51                                                    
+                                                                                
+ 2008  6 1  8 6 31.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601080631     I
+ 2008-06-01-0806-31S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   8 7 20.51   78              -1.0                             
+ VANGOBZ ES   2A   8 8 19.31                                                    
+ VAVUNBZ EP   0A   8 7  2.81   80             270.0  5.7                        
+ VBUTMBZ EP   1A   8 7  3.41   71              -1.0                             
+ VBUTMBZ ES   2A   8 7 17.61                                                    
+ VIRHOBZ EP   0A   8 7  1.61   39             309.0 17.8                        
+ VIRHOBZ ES   2A   8 7 14.71                                                    
+ VKOLHBZ EP   0A   8 7  2.61   37              -1.0                             
+ VKOLHBZ ES   2A   8 7 16.11                                                    
+ VLEBEBZ EP   2A   8 7  3.81   40              -1.0                             
+ VLEVIBZ EP   1A   8 7 21.91   52             262.0                             
+ VLEVIBZ ES   2A   8 8  0.01                                                    
+ VNARWBZ EP   1A   8 7 18.01   55              -1.0                             
+ VSARABZ EP   0A   8 7  3.51   72             172.0  9.9                        
+ VSARABZ ES   2A   8 7 18.11                                                    
+ VTAMBBZ EP   2A   8 7 16.81    5              -1.0                             
+ VTURTBZ EP   0A   8 7  1.91   27              -1.0                             
+ VTURTBZ ES   1A   8 7 14.91                                                    
+                                                                                
+ 2008  6 1  811 13.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601081113     I
+ 2008-06-01-0811-13S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   811 39.51   63              -1.0                             
+ VANGOBZ ES   3A   811 52.11                                                    
+ VASAVBZ EP   1A   811 52.11   72                                               
+ VASAVBZ ES   3A   812 39.11                  266.0                             
+ VAVUNBZ EP   0A   811 40.01   82             270.0 12.5                        
+ VAVUNBZ ES   2A   811 51.41                                                    
+ VBUTMBZ EP   0A   811 38.71   58              -1.0                             
+ VBUTMBZ ES   2A   811 49.41                                                    
+ VESPIBZ EP   1A   811 43.41   37              -1.0                             
+ VESPIBZ ES   2A   811 57.41                                                    
+ VIRHOBZ EP   0A   811 38.21   55              -1.0                             
+ VIRHOBZ ES   2A   811 48.41                                                    
+ VKOLHBZ EP   0A   811 37.51   88              -1.0                             
+ VLEBEBZ EP   0A   811 39.11   85              -1.0                             
+ VLEBEBZ ES   2A   811 50.71                                                    
+ VLEVIBZ EP   0A   812 52.31   34                                               
+ VLEVIBZ ES   1A   813  1.11                  131.0                             
+ VSARABZ EP   0A   811 38.51   40              -1.0                             
+ VSARABZ ES   2A   811 49.21                                                    
+ VSULEBZ EP   0A   811 42.41   37              -1.0                             
+ VTAMBBZ EP   1A   811 49.41   76              -1.0                             
+ VTURTBZ EP   0A   811 37.81   26              -1.0                             
+ VTURTBZ ES   2A   811 47.51                                                    
+ VWUSIBZ EP   0A   811 42.11   24             247.0  6.8                        
+ VWUSIBZ ES   2A   811 56.31                                                    
+                                                                                
+ 2008  6 1  818  9.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601081809     I
+ 2008-06-01-0818-09S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   818 31.41   90              -1.0                             
+ VAVUNBZ EP   0A   818 30.61   77             270.0  7.3                        
+ VBUTMBZ EP   0A   818 30.11   91              -1.0                             
+ VIRHOBZ EP   1A   818 29.11   91              -1.0                             
+ VKOLHBZ EP   1A   818 29.21   43              -1.0                             
+ VLEBEBZ EP   1A   818 30.91   72              -1.0                             
+ VPOTOBZ EP   1A   818 32.31   24              -1.0                             
+ VSARABZ EP   0A   818 30.11   73             178.0  5.4                        
+ VTAMBBZ EP   1A   818 29.81   91              -1.0                             
+ VTURTBZ EP   0A   818 28.91   70              -1.0                             
+                                                                                
+ 2008  6 1  822 49.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601082249     I
+ 2008-06-01-0822-49S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   1A   823 14.01   60              49.0                             
+ VKOLHBZ EP   2A   823 19.81    1              -1.0                             
+ VTURTBZ EP   1A   823 15.81    5              -1.0                             
+                                                                                
+ 2008  6 1  830 40.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601083040     I
+ 2008-06-01-0830-40S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   831  5.21   87              -1.0                             
+ VSARABZ EP   2A   831  3.51   85              -1.0                             
+ VTAMBBZ EP   1A   830 52.01  100              -1.0                             
+ VTURTBZ EP   2A   830 50.51   25              -1.0                             
+ VTURTBZ ES   1A   831  0.31                                                    
+                                                                                
+ 2008  6 1  842  1.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601084201     I
+ 2008-06-01-0842-01S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   0A   843 42.41    3             203.0                             
+                                                                                
+ 2008  6 1  846 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601084645     I
+ 2008-06-01-0846-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   847 47.11   50              -1.0                             
+ VANGOBZ ES   2A   848  9.11                                                    
+ VBUTMBZ EP   0A   847 19.51   91              -1.0                             
+ VBUTMBZ ES   2A   848  9.51                                                    
+ VKOLHBZ EP   0A   846 55.51   90              -1.0                             
+ VKOLHBZ ES   2A   847 33.61                                                    
+ VLEBEBZ EP   2A   847 21.31   76              -1.0                             
+ VLEBEBZ ES   2A   847 47.61                                                    
+ VSARABZ EP   1A   847 20.21   84              -1.0                             
+ VSARABZ ES   2A   848  7.81                                                    
+ VTAMBBZ EP   1A   848 10.51   26              -1.0                             
+                                                                                
+ 2008  6 1  847 16.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601084716     I
+ 2008-06-01-0847-16S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   847 47.11   43              -1.0                             
+ VANGOBZ ES   2A   848  9.11                                                    
+ VBUTMBZ EP   2A   847 47.01   32              -1.0                             
+ VBUTMBZ ES   2A   848  9.51                                                    
+ VIRHOBZ EP   1A   847 46.71   31              -1.0                             
+ VIRHOBZ ES   3A   848  8.91                                                    
+ VKOLHBZ EP   2A   847 33.61   49              -1.0                             
+ VLEBEBZ EP   1A   847 47.61   36                                               
+ VLEBEBZ ES   3A   848 10.81                  290.0                             
+ VSARABZ EP   1A   847 46.11   32              -1.0                             
+ VSARABZ ES   2A   848  7.81                                                    
+ VTAMBBZ EP   1A   848 10.51    7              -1.0                             
+                                                                                
+ 2008  6 1  859 11.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601085911     I
+ 2008-06-01-0859-11S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   859 39.61   78              -1.0                             
+ VANGOBZ ES   2A   859 54.01                                                    
+ VAVUNBZ EP   1A   859 41.41   31              -1.0                             
+ VAVUNBZ ES   2A   859 56.21                                                    
+ VBUTMBZ EP   1A   859 39.41   38              -1.0                             
+ VBUTMBZ ES   1A   859 52.91                                                    
+ VESPIBZ EP   1A   9 0  2.81   29              -1.0                             
+ VIRHOBZ EP   1A   859 39.41   69              -1.0                             
+ VIRHOBZ ES   1A   859 52.51                                                    
+ VKOLHBZ EP   2A   859 31.01   92              -1.0                             
+ VLEBEBZ EP   1A   859 40.11   35              -1.0                             
+ VLEBEBZ ES   1A   859 53.71                                                    
+ VLEVIBZ EP   1A   9 0 26.21   35              -1.0                             
+ VPOTOBZ EP   1A   859 43.81   67              -1.0                             
+ VSARABZ EP   0A   859 38.61   50              -1.0                             
+ VSARABZ ES   2A   859 51.81                                                    
+ VTAMBBZ EP   1A   859 32.11   77              -1.0                             
+ VTAMBBZ ES   2A   859 53.91                                                    
+ VTURTBZ EP   1A   859 51.41   78              -1.0                             
+ VTURTBZ ES   2A   9 0 53.51                                                    
+                                                                                
+ 2008  6 1  918 53.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601091853     I
+ 2008-06-01-0918-53S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   920 33.01    2              -1.0                             
+ VESPIBZ EP   2A   920 37.61    7              -1.0                             
+ VNARWBZ EP   2A   919 14.21   91              -1.0                             
+                                                                                
+ 2008  6 1  921 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601092122     I
+ 2008-06-01-0921-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   921 44.01   90             140.0 48.6                        
+ VASAVBZ EP   0A   921 46.41   67              -1.0                             
+ VASAVBZ ES   2A   922  2.81                                                    
+ VAVUNBZ EP   0A   921 45.71   47             270.0 13.3                        
+ VAVUNBZ ES   2A   922  2.21                                                    
+ VBUTMBZ EP   0A   921 43.51   91              -1.0                             
+ VEBENBZ EP   2A   923  2.91    1              -1.0                             
+ VESPIBZ EP   2A   922  8.41    5              -1.0                             
+ VIRHOBZ EP   0A   921 43.31   91             235.0 12.2                        
+ VIRHOBZ ES   3A   921 58.31                                                    
+ VKOLHBZ EP   0A   921 42.01   77              -1.0                             
+ VLEBEBZ EP   0A   921 44.21   90              -1.0                             
+ VNARWBZ EP   2A   921 40.91   73              -1.0                             
+ VPOTOBZ EP   0A   921 48.31   70              -1.0                             
+ VSALEBZ EP   0A   921 46.81   46              -1.0                             
+ VSARABZ EP   0A   921 42.91   84             176.0  6.6                        
+ VSULEBZ EP   0A   921 46.31   88              -1.0                             
+ VTAMBBZ EP   0A   921 44.21   84             356.0 10.1                        
+ VTAMBBZ ES   2A   921 59.41                                                    
+ VTURTBZ EP   0A   921 42.71   91              -1.0                             
+ VTURTBZ ES   3A   921 57.71                                                    
+ VWUSIBZ EP   0A   921 45.41   57             229.0 12.0                        
+                                                                                
+ 2008  6 1  933  6.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601093306     I
+ 2008-06-01-0933-06S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A   933 36.21   82              -1.0                             
+ VAVUNBZ EP   1A   933 38.11   67              -1.0                             
+ VAVUNBZ ES   2A   933 54.21                                                    
+ VBUTMBZ EP   0A   933 35.81   82              -1.0                             
+ VESPIBZ EP   0A   933 21.21   96              -1.0                             
+ VIRHOBZ EP   0A   933 35.91   82              -1.0                             
+ VIRHOBZ ES   2A   933 50.51                                                    
+ VKOLHBZ EP   0A   933 34.71   83              -1.0                             
+ VLEBEBZ EP   0A   933 36.41   82              -1.0                             
+ VLEVIBZ EP   2A   933 20.81   97                                               
+ VLEVIBZ ES   2A   934 52.21                   97.0                             
+ VNARWBZ EP   2A   933 25.71   38              -1.0                             
+ VSARABZ EP   0A   933 35.21   75             169.0  7.2                        
+ VTAMBBZ EP   1A   933 36.61   64              -1.0                             
+ VTAMBBZ ES   2A   933 51.61                                                    
+ VTURTBZ EP   0A   933 35.21   83              -1.0                             
+ VTURTBZ ES   3A   933 49.61                                                    
+                                                                                
+ 2008  6 1  944  1.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601094401     I
+ 2008-06-01-0944-01S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A   944 33.11   63              -1.0                             
+ VBUTMBZ EP   2A   944 45.31   27              -1.0                             
+ VLEVIBZ EP   2A   945 12.21   14              -1.0                             
+ VSARABZ EP   2A   944 31.81   46              -1.0                             
+                                                                                
+ 2008  6 1  949 32.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601094932     I
+ 2008-06-01-0949-32S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   950  4.71   50              -1.0                             
+ VANGOBZ ES   3A   950 34.41                                                    
+ VAVUNBZ EP   1A   950 18.31   19             270.0  9.1                        
+ VIRHOBZ EP   2A   950 16.01   68              -1.0                             
+ VLAKABZ EP   0A   950 16.81   63              -1.0                             
+ VLEBEBZ EP   2A   950  4.91   68              -1.0                             
+ VLEBEBZ ES   2A   950 17.51                                                    
+ VLEVIBZ EP   2A   950 19.11   83              -1.0                             
+ VLEVIBZ ES   2A   951 25.41                                                    
+ VSARABZ EP   1A   950  3.21   53              -1.0                             
+ VSARABZ ES   3A   950 32.41                                                    
+ VTAMBBZ EP   1A   950 16.61   48              -1.0                             
+ VTURTBZ EP   2A   950  4.41   35              -1.0                             
+                                                                                
+ 2008  6 1  949 48.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601094948     I
+ 2008-06-01-0949-48S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A   950  4.71   85              -1.0                             
+ VANGOBZ ES   3A   950 34.41                                                    
+ VASAVBZ EP   2A   951 25.51   14              -1.0                             
+ VAVUNBZ EP   1A   950 18.31   35             270.0  9.2                        
+ VIRHOBZ EP   2A   950 16.01   84              -1.0                             
+ VLAKABZ EP   0A   950 16.81   83              -1.0                             
+ VLEBEBZ EP   2A   950  4.91   68              -1.0                             
+ VLEBEBZ ES   2A   950 17.51                                                    
+ VLEVIBZ EP   2A   950  0.51   98              -1.0                             
+ VLEVIBZ ES   2A   951 25.41                                                    
+ VSARABZ EP   1A   950  3.21   58              -1.0                             
+ VSARABZ ES   3A   950 32.41                                                    
+ VTAMBBZ EP   1A   950 16.61   79              -1.0                             
+ VTURTBZ EP   2A   950  4.41   94              -1.0                             
+                                                                                
+ 2008  6 1 10 0 33.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601100033     I
+ 2008-06-01-1000-33S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  10 0 54.11   91              -1.0                             
+ VANGOBZ ES   2A  10 1 34.61                                                    
+ VAVUNBZ EP   1A  10 0 55.51   89              -1.0                             
+ VAVUNBZ ES   3A  10 1 11.71                                                    
+ VBUTMBZ EP   1A  10 1  9.81   65              -1.0                             
+ VBUTMBZ ES   3A  10 1 34.11                                                    
+ VIRHOBZ EP   2A  10 0 53.61   91              -1.0                             
+ VIRHOBZ ES   2A  10 1 33.71                                                    
+ VLEBEBZ EP   2A  10 1 34.71   50              -1.0                             
+ VLEBEBZ ES   2A  10 1 49.91                                                    
+ VLEVIBZ EP   2A  10 1 52.01   33                                               
+ VLEVIBZ ES   2A  10 2 10.31                  108.0                             
+ VSARABZ EP   0A  10 0 53.11   92              -1.0                             
+ VSARABZ ES   1A  10 1 32.91                                                    
+ VSULEBZ EP   1A  10 1 38.11   41              -1.0                             
+ VTAMBBZ EP   1A  10 1 49.21   27              -1.0                             
+ VTURTBZ EP   1A  10 1 33.21   70              -1.0                             
+                                                                                
+ 2008  6 1 10 1  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601100108     I
+ 2008-06-01-1001-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  10 1 34.61   28              -1.0                             
+ VAVUNBZ EP   2A  10 1 51.91   10              -1.0                             
+ VBUTMBZ EP   2A  10 1 34.21   23              -1.0                             
+ VIRHOBZ EP   1A  10 1 33.71   28              -1.0                             
+ VIRHOBZ ES   3A  10 1 48.41                                                    
+ VLEBEBZ EP   2A  10 1 34.71   27              -1.0                             
+ VLEBEBZ ES   2A  10 1 49.91                                                    
+ VLEVIBZ EP   1A  10 2 10.31   68             108.0                             
+ VLEVIBZ ES   2A  10 2 56.31                                                    
+ VSARABZ EP   0A  10 1 33.01   27              -1.0                             
+ VSARABZ ES   2A  10 1 47.41                                                    
+ VSULEBZ EP   1A  10 1 38.11   33              -1.0                             
+ VTAMBBZ EP   1A  10 1 49.21   12              -1.0                             
+ VTURTBZ EP   1A  10 1 33.21   26              -1.0                             
+                                                                                
+ 2008  6 1 1027 35.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601102735     I
+ 2008-06-01-1027-35S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1027 57.81   89               6.0 26.6                        
+ VASAVBZ EP   0A  1027 56.01   64                                               
+ VASAVBZ ES   2A  1028 47.71                  244.0                             
+ VAVUNBZ EP   0A  1027 56.11   56             270.0  8.8                        
+ VAVUNBZ ES   3A  1028 11.81                                                    
+ VBUTMBZ EP   0A  1027 56.61   69              -1.0                             
+ VBUTMBZ ES   2A  1028 11.51                                                    
+ VEBENBZ EP   2A  1027 57.61   28              -1.0                             
+ VESPIBZ EP   0A  1027 57.21   84              -1.0                             
+ VIRHOBZ EP   0A  1027 55.31   65             300.0 22.4                        
+ VIRHOBZ ES   3A  1028  9.01                                                    
+ VKOLHBZ EP   0A  1027 56.21   40              -1.0                             
+ VKOLHBZ ES   2A  1028 10.41                                                    
+ VLEBEBZ EP   0A  1027 57.21   86              -1.0                             
+ VLEBEBZ ES   3A  1028 12.71                                                    
+ VNARWBZ EP   0A  1027 57.11   59              -1.0                             
+ VNARWBZ ES   2A  1028 12.91                                                    
+ VPOTOBZ EP   0A  1027 56.81   37              -1.0                             
+ VPOTOBZ ES   2A  1028 12.51                                                    
+ VSARABZ EP   0A  1027 57.01   42             175.0  8.2                        
+ VSARABZ ES   2A  1028 12.31                                                    
+ VSULEBZ EP   1A  1027 58.91   64              -1.0                             
+ VTAMBBZ EP   0A  1027 56.21   43              -1.0                             
+ VTAMBBZ ES   2A  1028 10.41                                                    
+ VTURTBZ EP   0A  1027 55.31   49              -1.0                             
+ VTURTBZ ES   2A  1028  9.41                                                    
+ VWUSIBZ EP   2A  1027 59.41   88              -1.0                             
+                                                                                
+ 2008  6 1 1034 15.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601103415     I
+ 2008-06-01-1034-15S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   0A  1034 43.91   51             238.0                             
+ VASAVBZ ES   3A  1035 32.91                                                    
+ VBUTMBZ EP   1A  1034 38.01   41              -1.0                             
+ VSARABZ EP   0A  1034 38.51   89              -1.0                             
+                                                                                
+ 2008  6 1 1036 42.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601103642     I
+ 2008-06-01-1036-42S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1037 13.91   80              -1.0                             
+ VASAVBZ EP   1A  1037 13.51   80              -1.0                             
+ VASAVBZ ES   2A  1037 25.11                                                    
+ VAVUNBZ EP   0A  1037 15.11   79             270.0  8.7                        
+ VAVUNBZ ES   2A  1037 28.01                                                    
+ VBUTMBZ EP   0A  1037 19.51   74              -1.0                             
+ VBUTMBZ ES   3A  1037 36.21                                                    
+ VEBENBZ EP   0A  1037 17.01   77              -1.0                             
+ VEBENBZ ES   2A  1037 31.41                                                    
+ VESPIBZ EP   0A  1037 10.11   84             331.0 12.0                        
+ VIRHOBZ EP   0A  1037 18.01   76             348.0  5.5                        
+ VIRHOBZ ES   2A  1037 32.91                                                    
+ VKOLHBZ EP   0A  1037 21.61   72              -1.0                             
+ VKOLHBZ ES   2A  1037 38.21                                                    
+ VLAKABZ EP   0A  1037  8.71   85              -1.0                             
+ VLAKABZ ES   2A  1037 16.61                                                    
+ VLEBEBZ EP   1A  1037 14.81   79              -1.0                             
+ VLEBEBZ ES   2A  1037 18.91                                                    
+ VLEVIBZ EP   0A  1037  7.41   87              36.0 19.5                        
+ VLEVIBZ ES   1A  1037 14.51                                                    
+ VNARWBZ EP   0A  1037 10.31   84             347.0                             
+ VNARWBZ ES   2A  1038 27.01                                                    
+ VPOTOBZ EP   0A  1037 11.71   82              -1.0                             
+ VPOTOBZ ES   3A  1037 22.11                                                    
+ VSALEBZ EP   2A  1037  3.21   76              -1.0                             
+ VSARABZ EP   1A  1037 13.41   81                                               
+ VSARABZ ES   1A  1037 21.21                                                    
+ VSULEBZ EP   2A  1037 16.01   78              -1.0                             
+ VTAMBBZ EP   0A  1037 17.81   76              -1.0                             
+ VTAMBBZ ES   2A  1037 32.31                                                    
+ VTURTBZ EP   0A  1037 19.91   85              -1.0                             
+ VTURTBZ ES   3A  1037 35.81                                                    
+ VWUSIBZ EP   2A  1037 36.51   57              -1.0                             
+                                                                                
+ 2008  6 1 1041 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601104122     I
+ 2008-06-01-1041-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1041 56.81   50              -1.0                             
+ VAVUNBZ EP   1A  1042  9.51   28              -1.0                             
+ VIRHOBZ EP   2A  1042 14.41   29              -1.0                             
+ VTAMBBZ EP   1A  1042 13.81   49              -1.0                             
+                                                                                
+ 2008  6 1 1043 24.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601104324     I
+ 2008-06-01-1043-24S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1043 44.91   89              -1.0                             
+ VANGOBZ ES   1A  1045 11.51                                                    
+ VAVUNBZ EP   1A  1043 50.61   67             270.0  8.7                        
+ VAVUNBZ ES   3A  1044 20.81                                                    
+ VBUTMBZ EP   1A  1043 45.81   77              -1.0                             
+ VIRHOBZ EP   0A  1043 48.31   70             162.0  7.1                        
+ VKOLHBZ EP   0A  1043 45.21   70              -1.0                             
+ VLEBEBZ EP   0A  1043 46.61   69              -1.0                             
+ VSARABZ EP   1A  1043 44.31   65              -1.0                             
+ VTURTBZ EP   1A  1043 46.61   85              -1.0                             
+                                                                                
+ 2008  6 1 1046  1.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601104601     I
+ 2008-06-01-1046-01S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1047  1.01   41              -1.0                             
+ VAVUNBZ EP   2A  1046 45.81   50             270.0  6.4                        
+ VAVUNBZ ES   2A  1046 59.91                                                    
+ VBUTMBZ EP   2A  1046 36.31   63              -1.0                             
+ VBUTMBZ ES   1A  1046 59.61                                                    
+ VIRHOBZ EP   2A  1046 35.51   70              -1.0                             
+ VKOLHBZ EP   2A  1046 58.41   55              -1.0                             
+ VLEBEBZ EP   2A  1046 37.51   47              -1.0                             
+ VLEBEBZ ES   2A  1047  1.01                                                    
+ VSARABZ EP   1A  1046 21.91   91              -1.0                             
+ VSARABZ ES   2A  1047  0.01                                                    
+ VTAMBBZ EP   2A  1046 36.71   60              -1.0                             
+ VTAMBBZ ES   1A  1046 58.61                                                    
+ VTURTBZ EP   1A  1046 44.81   65              -1.0                             
+ VTURTBZ ES   1A  1046 57.41                                                    
+                                                                                
+ 2008  6 1 1046 37.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601104637     I
+ 2008-06-01-1046-37S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1047  1.01   23              -1.0                             
+ VANGOBZ ES   2A  1048 20.71                                                    
+ VAVUNBZ EP   1A  1046 59.91   24              -1.0                             
+ VBUTMBZ EP   1A  1046 59.71   23              -1.0                             
+ VIRHOBZ EP   2A  1046 57.01   26              -1.0                             
+ VKOLHBZ EP   2A  1046 58.41   87              -1.0                             
+ VLEBEBZ EP   1A  1047  1.11   22              -1.0                             
+ VSARABZ EP   1A  1047  0.01   22              -1.0                             
+ VTAMBBZ EP   0A  1046 58.61   25              -1.0                             
+ VTURTBZ EP   0A  1046 57.41   25             284.0                             
+                                                                                
+ 2008  6 1 1058 42.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601105842     I
+ 2008-06-01-1058-42S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1059  3.41   33              -1.0                             
+ VBUTMBZ EP   1A  1059  3.01   31              -1.0                             
+ VBUTMBZ ES   3A  1059 17.71                                                    
+ VKOLHBZ EP   2A  1059  1.91   25              -1.0                             
+ VKOLHBZ ES   2A  1059 14.91                                                    
+ VLEBEBZ EP   1A  1059  3.61   90                                               
+ VLEBEBZ ES   1A  1059 54.31                   32.0                             
+ VLEVIBZ EP   1A  11 0 26.81    7              -1.0                             
+ VSARABZ EP   1A  1059  2.21   25              -1.0                             
+ VSARABZ ES   3A  1059 16.31                                                    
+ VTAMBBZ EP   1A  1059 18.31   76              -1.0                             
+                                                                                
+ 2008  6 1 11 4 57.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601110457     I
+ 2008-06-01-1104-57S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   2A  11 5 19.31   90              -1.0                             
+ VBUTMBZ EP   1A  11 5 18.31   91              -1.0                             
+ VBUTMBZ ES   2A  11 5 31.51                                                    
+ VSARABZ EP   1A  11 5 18.61   90              -1.0                             
+ VSARABZ ES   2A  11 5 31.61                                                    
+ VTAMBBZ EP   1A  11 5 31.01   76              -1.0                             
+ VTAMBBZ ES   3A  11 6 19.21                                                    
+ VTURTBZ EP   1A  11 5 17.71   24              -1.0                             
+ VTURTBZ ES   3A  11 5 29.91                                                    
+                                                                                
+ 2008  6 1 11 6 42.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601110642     I
+ 2008-06-01-1106-42S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEBEBZ EP   2A  11 7  7.31   73              -1.0                             
+                                                                                
+ 2008  6 1 1119  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601111908     I
+ 2008-06-01-1119-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VESPIBZ EP   2A  1119 28.11   42              -1.0                             
+                                                                                
+ 2008  6 1 1126 33.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601112633     I
+ 2008-06-01-1126-33S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VSARABZ EP   2A  1127  7.11    4              -1.0                             
+                                                                                
+ 2008  6 1 1139 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601113945     I
+ 2008-06-01-1139-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1140 17.81   55              -1.0                             
+ VANGOBZ ES   2A  1140 30.01                                                    
+ VAVUNBZ EP   0A  1140 20.31   74              -1.0                             
+ VAVUNBZ ES   3A  1140 34.71                                                    
+ VBUTMBZ EP   1A  1140 29.71   41              -1.0                             
+ VESPIBZ EP   2A  1140 42.21   19              -1.0                             
+ VIRHOBZ EP   0A  1140 18.01   75              -1.0                             
+ VIRHOBZ ES   2A  1140 30.51                                                    
+ VKOLHBZ EP   1A  1140 16.11   60              -1.0                             
+ VKOLHBZ ES   2A  1140 26.71                                                    
+ VLEBEBZ EP   2A  1140 18.51   75              -1.0                             
+ VLEBEBZ ES   2A  1140 31.11                                                    
+ VSARABZ EP   2A  1140 17.31   36              -1.0                             
+ VSULEBZ EP   2A  1140 21.61   51              -1.0                             
+ VTAMBBZ EP   1A  1140 31.21   32              -1.0                             
+ VTURTBZ EP   0A  1140 16.81   74              -1.0                             
+ VTURTBZ ES   2A  1140 28.81                                                    
+ VWUSIBZ EP   1A  1140 19.41   34              -1.0                             
+ VWUSIBZ ES   3A  1140 33.71                                                    
+                                                                                
+ 2008  6 1 1140  1.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601114001     I
+ 2008-06-01-1140-01S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1140 17.81   99              -1.0                             
+ VANGOBZ ES   2A  1140 30.01                                                    
+ VAVUNBZ EP   0A  1140 20.31   87              -1.0                             
+ VAVUNBZ ES   3A  1140 34.71                                                    
+ VBUTMBZ EP   2A  1140 17.61   89              -1.0                             
+ VBUTMBZ ES   2A  1140 29.71                                                    
+ VESPIBZ EP   2A  1140 42.21   27              -1.0                             
+ VIRHOBZ EP   0A  1140 18.01   87              -1.0                             
+ VIRHOBZ ES   2A  1140 30.51                                                    
+ VKOLHBZ EP   1A  1140 16.11   59              -1.0                             
+ VKOLHBZ ES   2A  1140 26.71                                                    
+ VLEBEBZ EP   2A  1140 18.51   95              -1.0                             
+ VLEBEBZ ES   2A  1140 31.11                                                    
+ VSARABZ EP   2A  1140 17.41   26              -1.0                             
+ VSULEBZ EP   2A  1140 21.61   52              -1.0                             
+ VTAMBBZ EP   1A  1140 31.21   82              -1.0                             
+ VTURTBZ EP   0A  1140 16.81   96              -1.0                             
+ VTURTBZ ES   2A  1140 28.81                                                    
+ VWUSIBZ EP   1A  1140 19.41   38              -1.0                             
+ VWUSIBZ ES   3A  1140 33.71                                                    
+                                                                                
+ 2008  6 1 1149  3.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601114903     I
+ 2008-06-01-1149-03S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   1A  1149 28.81   86              -1.0                             
+ VASAVBZ ES   2A  1149 38.61                                                    
+ VAVUNBZ EP   0A  1149 29.31   86             270.0 10.9                        
+ VBUTMBZ EP   2A  1149 38.51   77              -1.0                             
+ VESPIBZ EP   0A  1149 25.21   62              -1.0                             
+ VESPIBZ ES   2A  1149 34.31                                                    
+ VIRHOBZ EP   0A  1149 32.21   52               2.0  6.0                        
+ VKOLHBZ EP   2A  1149 36.01   41              -1.0                             
+ VLAKABZ EP   0A  1149 25.11   90              38.0 11.8                        
+ VLAKABZ ES   3A  1149 33.51                                                    
+ VLEVIBZ EP   0A  1149 23.21   34              75.0 11.6                        
+ VNARWBZ EP   0A  1149 25.81   60              -1.0                             
+ VNARWBZ ES   1A  1149 35.31                                                    
+ VPOTOBZ EP   0A  1149 26.81   54              -1.0                             
+ VPOTOBZ ES   2A  1149 36.31                                                    
+ VSARABZ EP   1A  1149 35.11   44              -1.0                             
+ VTURTBZ EP   1A  1149 34.21   41              -1.0                             
+ VTURTBZ ES   2A  1149 39.81                                                    
+                                                                                
+ 2008  6 1 1153 32.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601115332     I
+ 2008-06-01-1153-32S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1153 53.91   31              -1.0                             
+ VAVUNBZ EP   1A  1153 51.91   30              -1.0                             
+ VAVUNBZ ES   2A  1154  8.01                                                    
+ VBUTMBZ EP   0A  1153 52.51   39              -1.0                             
+ VBUTMBZ ES   2A  1154  8.41                                                    
+ VIRHOBZ EP   2A  1153 51.31   65              -1.0                             
+ VKOLHBZ EP   2A  1153 52.21   23              -1.0                             
+ VKOLHBZ ES   2A  1154  7.51                                                    
+ VLEBEBZ EP   2A  1154  9.71   74              -1.0                             
+ VSARABZ EP   1A  1153 52.91   91              -1.0                             
+ VSARABZ ES   3A  1154  9.21                                                    
+ VTAMBBZ EP   1A  1154  7.21   77              -1.0                             
+ VTURTBZ EP   0A  1153 50.31   35              -1.0                             
+ VTURTBZ ES   2A  1154  6.31                                                    
+                                                                                
+ 2008  6 1 1158  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601115808     I
+ 2008-06-01-1158-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   2A  1158 35.91   33              -1.0                             
+                                                                                
+ 2008  6 1 12 2 46.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601120246     I
+ 2008-06-01-1202-46S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   2A  12 3  7.31   91              -1.0                             
+ VESPIBZ EP   0A  12 3  2.31   96              -1.0                             
+ VNARWBZ EP   0A  12 3  2.31   96              -1.0                             
+ VSULEBZ EP   1A  12 3  9.61   88              -1.0                             
+ VWUSIBZ EP   1A  12 3 13.01   85              -1.0                             
+                                                                                
+ 2008  6 1 1211  5.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601121105     I
+ 2008-06-01-1211-05S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1211 39.61   77              -1.0                             
+ VANGOBZ ES   3A  1212 54.71                                                    
+ VAVUNBZ EP   2A  1211 55.21   79              -1.0                             
+ VAVUNBZ ES   1A  1212 53.61                                                    
+ VEBENBZ EP   2A  1212 52.61    4              -1.0                             
+ VIRHOBZ EP   2A  1212 55.91    1              -1.0                             
+ VLEBEBZ EP   1A  1211 56.11   61              -1.0                             
+ VLEBEBZ ES   2A  1212 57.81                                                    
+ VSALEBZ EP   2A  1212 52.41    5              -1.0                             
+ VSULEBZ EP   1A  1212  3.61   53             293.0                             
+ VTAMBBZ EP   2A  1212 54.11    3              -1.0                             
+ VTURTBZ EP   1A  1211 35.61   81              -1.0                             
+ VTURTBZ ES   1A  1212 55.81                                                    
+                                                                                
+ 2008  6 1 1211 21.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601121121     I
+ 2008-06-01-1211-21S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1211 39.61   93              -1.0                             
+ VANGOBZ ES   3A  1212 54.71                                                    
+ VAVUNBZ EP   2A  1211 55.21   92              -1.0                             
+ VAVUNBZ ES   1A  1212 53.61                                                    
+ VEBENBZ EP   2A  1212 52.61   13              -1.0                             
+ VIRHOBZ EP   2A  1212 55.91   17                                               
+ VIRHOBZ ES   2A  1213  1.31                  253.0                             
+ VLEBEBZ EP   1A  1211 56.11   74              -1.0                             
+ VLEBEBZ ES   2A  1212 57.81                                                    
+ VSULEBZ EP   1A  1212  3.61   64             293.0                             
+ VTAMBBZ EP   2A  1212 54.11   19              -1.0                             
+ VTAMBBZ ES   2A  1212 58.71                                                    
+ VTURTBZ EP   1A  1211 35.71   97              -1.0                             
+ VTURTBZ ES   1A  1212 55.81                                                    
+                                                                                
+ 2008  6 1 1212 32.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601121232     I
+ 2008-06-01-1212-32S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1212 54.71   89              -1.0                             
+ VANGOBZ ES   1A  1214 21.21                                                    
+ VASAVBZ EP   0A  1214 19.51    4              -1.0                             
+ VAVUNBZ EP   0A  1212 53.61   90              -1.0                             
+ VAVUNBZ ES   1A  1214 19.61                                                    
+ VBUTMBZ EP   0A  1214 20.31    4              -1.0                             
+ VEBENBZ EP   2A  1212 52.61   91              -1.0                             
+ VEBENBZ ES   1A  1214 20.51                                                    
+ VESPIBZ EP   0A  1214 20.41    4              -1.0                             
+ VIRHOBZ EP   1A  1213  1.31   88             253.0                             
+ VIRHOBZ ES   1A  1214 19.21                                                    
+ VKOLHBZ EP   0A  1214 20.21    4              -1.0                             
+ VLAKABZ EP   0A  1214 21.81    2              -1.0                             
+ VLEBEBZ EP   1A  1212 53.71   90              -1.0                             
+ VLEBEBZ ES   1A  1214 20.41                                                    
+ VLEVIBZ EP   0A  1214 21.91    2             175.0 15.3                        
+ VNARWBZ EP   0A  1214 20.51    3             112.0 11.6                        
+ VPOTOBZ EP   2A  1213  5.31   79              -1.0                             
+ VPOTOBZ ES   1A  1214 20.01                                                    
+ VSALEBZ EP   2A  1212 52.41   92              -1.0                             
+ VSALEBZ ES   1A  1214 20.91                                                    
+ VSARABZ EP   0A  1214 20.81    3              -1.0                             
+ VSULEBZ EP   0A  1214 21.61    2              62.0  5.5                        
+ VTAMBBZ EP   1A  1212 58.71   88              -1.0                             
+ VTAMBBZ ES   1A  1214 19.71                                                    
+ VTURTBZ EP   0A  1212 55.81   88              -1.0                             
+ VTURTBZ ES   1A  1214 19.61                                                    
+ VWUSIBZ EP   2A  1212 56.51   87              -1.0                             
+ VWUSIBZ ES   1A  1214 22.61                                                    
+                                                                                
+ 2008  6 1 1213 59.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601121359     I
+ 2008-06-01-1213-59S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1214 21.21   90               5.0 26.5                        
+ VASAVBZ EP   0A  1214 19.51   79              -1.0                             
+ VASAVBZ ES   2A  1214 31.71                                                    
+ VAVUNBZ EP   0A  1214 19.61   91             270.0 15.3                        
+ VAVUNBZ ES   1A  1214 32.31                                                    
+ VBUTMBZ EP   0A  1214 20.31   91              -1.0                             
+ VBUTMBZ ES   2A  1214 34.11                                                    
+ VEBENBZ EP   0A  1214 20.51   83             262.0 43.6                        
+ VEBENBZ ES   2A  1214 34.11                                                    
+ VESPIBZ EP   0A  1214 20.41   91              -1.0                             
+ VESPIBZ ES   1A  1214 33.61                                                    
+ VIRHOBZ EP   0A  1214 19.21   92             292.0 15.1                        
+ VIRHOBZ ES   2A  1214 31.41                                                    
+ VKOLHBZ EP   0A  1214 20.21   91              -1.0                             
+ VKOLHBZ ES   1A  1214 32.91                                                    
+ VLAKABZ EP   0A  1214 21.81   89              -1.0                             
+ VLAKABZ ES   3A  1214 37.81                                                    
+ VLEBEBZ EP   0A  1214 20.41   91             264.0  7.6                        
+ VLEBEBZ ES   3A  1214 34.61                                                    
+ VLEVIBZ EP   0A  1214 21.91   77             175.0 15.3                        
+ VLEVIBZ ES   1A  1214 36.01                                                    
+ VNARWBZ EP   0A  1214 20.51   90             112.0 11.6                        
+ VNARWBZ ES   3A  1214 35.51                                                    
+ VPOTOBZ EP   0A  1214 20.01   91             101.0 22.9                        
+ VPOTOBZ ES   2A  1214 33.21                                                    
+ VSALEBZ EP   0A  1214 20.91   83              -1.0                             
+ VSALEBZ ES   2A  1214 35.31                                                    
+ VSARABZ EP   0A  1214 20.81   90              -1.0                             
+ VSARABZ ES   2A  1214 34.61                                                    
+ VSULEBZ EP   0A  1214 21.61   89              62.0  5.5                        
+ VSULEBZ ES   3A  1214 38.01                                                    
+ VTAMBBZ EP   0A  1214 19.71   91             324.0 18.1                        
+ VTAMBBZ ES   1A  1214 33.01                                                    
+ VTURTBZ EP   0A  1214 19.61   91               4.0 23.1                        
+ VTURTBZ ES   2A  1214 32.11                                                    
+ VWUSIBZ EP   0A  1214 22.61   88             263.0 14.4                        
+ VWUSIBZ ES   2A  1214 38.11                                                    
+                                                                                
+ 2008  6 1 1216 14.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601121614     I
+ 2008-06-01-1216-14S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   1A  1216 36.81   13              -1.0                             
+ VIRHOBZ EP   2A  1216 38.81   15              -1.0                             
+ VIRHOBZ ES   2A  1216 45.91                                                    
+ VSALEBZ EP   2A  1216 34.01   82              -1.0                             
+ VSULEBZ EP   0A  1216 34.61   15              -1.0                             
+ VSULEBZ ES   3A  1216 39.21                                                    
+ VTAMBBZ EP   1A  1216 43.21    7              -1.0                             
+ VTURTBZ EP   1A  1216 39.11   61              -1.0                             
+ VTURTBZ ES   2A  1216 46.61                                                    
+ VWUSIBZ EP   1A  1216 36.41   12             307.0 12.9                        
+                                                                                
+ 2008  6 1 1226  0.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601122600     I
+ 2008-06-01-1226-00S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1226 22.51   90              -1.0                             
+ VAVUNBZ EP   0A  1226 22.21   61              -1.0                             
+ VBUTMBZ EP   0A  1226 21.81   62              -1.0                             
+ VEBENBZ EP   1A  1226 21.11   91              -1.0                             
+ VEBENBZ ES   2A  1226 25.41                                                    
+ VIRHOBZ EP   0A  1226 22.91   19              52.0  7.3                        
+ VIRHOBZ ES   2A  1226 28.21                                                    
+ VLEBEBZ EP   1A  1226 21.21   13              -1.0                             
+ VLEBEBZ ES   2A  1226 24.91                                                    
+ VSALEBZ EP   1A  1226 21.91   10              -1.0                             
+ VSULEBZ EP   2A  1226 22.21   18              -1.0                             
+ VTAMBBZ EP   0A  1226 21.51   91             358.0 16.0                        
+ VTURTBZ EP   0A  1226 23.11   30              -1.0                             
+ VWUSIBZ EP   2A  1226 24.61   13              -1.0                             
+ VWUSIBZ ES   2A  1226 31.61                                                    
+                                                                                
+ 2008  6 1 1233 30.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601123330     I
+ 2008-06-01-1233-30S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   1A  1233 52.21   64              -1.0                             
+ VIRHOBZ EP   2A  1233 51.71    5              -1.0                             
+ VTAMBBZ EP   2A  1233 53.41   72              -1.0                             
+                                                                                
+ 2008  6 1 1236 37.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601123637     I
+ 2008-06-01-1236-37S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   1A  1237  8.81   29              -1.0                             
+                                                                                
+ 2008  6 1 1242 13.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601124213     I
+ 2008-06-01-1242-13S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   2A  1242 48.31   69              -1.0                             
+                                                                                
+ 2008  6 1 1250 15.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601125015     I
+ 2008-06-01-1250-15S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   1A  1250 37.81   34              -1.0                             
+ VSARABZ EP   1A  1250 38.21   33              -1.0                             
+ VTAMBBZ EP   2A  1250 55.51   72              -1.0                             
+                                                                                
+ 2008  6 1 1251 52.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601125152     I
+ 2008-06-01-1251-52S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1252 13.31   66              -1.0                             
+ VANGOBZ ES   2A  1252 29.51                                                    
+ VASAVBZ EP   1A  1252 31.51   23              -1.0                             
+ VAVUNBZ EP   1A  1252 14.51   67              -1.0                             
+ VAVUNBZ ES   1A  1252 30.91                                                    
+ VBUTMBZ EP   0A  1252 12.91   68              -1.0                             
+ VBUTMBZ ES   1A  1252 28.51                                                    
+ VESPIBZ EP   2A  1252 17.71   69              -1.0                             
+ VIRHOBZ EP   0A  1252 12.71   64              -1.0                             
+ VIRHOBZ ES   2A  1252 27.71                                                    
+ VKOLHBZ EP   1A  1252 11.81   49              -1.0                             
+ VKOLHBZ ES   2A  1252 26.11                                                    
+ VLAKABZ EP   2A  1253 13.41   31              -1.0                             
+ VLEBEBZ EP   1A  1252 13.51   59              -1.0                             
+ VLEBEBZ ES   1A  1252 29.81                                                    
+ VNARWBZ EP   1A  1252 17.01   87              -1.0                             
+ VSARABZ EP   0A  1252 12.31   61              -1.0                             
+ VSARABZ ES   2A  1252 27.51                                                    
+ VTAMBBZ EP   0A  1252 28.81   65              -1.0                             
+ VTURTBZ EP   0A  1252 12.01   57                                               
+ VTURTBZ ES   1A  1252 26.71                  261.0                             
+ VWUSIBZ EP   1A  1252 14.61   48              -1.0                             
+                                                                                
+ 2008  6 1 1259 26.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601125926     I
+ 2008-06-01-1259-26S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EP   1A  1259 53.91   78              -1.0                             
+ VNARWBZ EP   1A  1259 51.71   86              -1.0                             
+                                                                                
+ 2008  6 1 13 3 33.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601130333     I
+ 2008-06-01-1303-33S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1310 47.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601131047     I
+ 2008-06-01-1310-47S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   1A  1311 15.81   42              -1.0                             
+ VBUTMBZ EP   1A  1311 20.31   59              -1.0                             
+ VEBENBZ EP   0A  1312 29.01    4             332.0                             
+ VESPIBZ EP   0A  1311 10.21   89             281.0 11.4                        
+ VIRHOBZ EP   2A  1311 17.31   46              -1.0                             
+ VKOLHBZ EP   2A  1311 40.31   50              -1.0                             
+ VLAKABZ EP   1A  1311  7.51   91              -1.0                             
+ VNARWBZ EP   1A  1311  9.01   80              -1.0                             
+                                                                                
+ 2008  6 1 1314  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601131408     I
+ 2008-06-01-1314-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1319 51.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601131951     I
+ 2008-06-01-1319-51S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   1A  1320 26.21    8              -1.0                             
+ VKOLHBZ EP   2A  1320  6.31   22              -1.0                             
+ VLEBEBZ EP   2A  1320 27.51   28              -1.0                             
+ VSARABZ EP   2A  1320 11.71   20              -1.0                             
+ VSARABZ ES   2A  1320 25.01                                                    
+                                                                                
+ 2008  6 1 1342 56.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601134256     I
+ 2008-06-01-1342-56S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1343 44.31   83              -1.0                             
+ VASAVBZ EP   0A  1343 21.31   82             279.0 12.3                        
+ VASAVBZ ES   2A  1343 28.61                                                    
+ VAVUNBZ EP   0A  1343 23.51   43              -1.0                             
+ VAVUNBZ ES   2A  1343 32.51                                                    
+ VBUTMBZ EP   0A  1343 27.71   73              -1.0                             
+ VBUTMBZ ES   2A  1343 40.21                                                    
+ VESPIBZ EP   0A  1343 19.81   88             216.0  5.5                        
+ VESPIBZ ES   2A  1343 26.81                                                    
+ VIRHOBZ EP   0A  1343 24.71   48              -1.0                             
+ VIRHOBZ ES   3A  1343 35.01                                                    
+ VKOLHBZ EP   2A  1343 42.31   54              -1.0                             
+ VLAKABZ EP   0A  1343 17.61   28              -1.0                             
+ VLEVIBZ EP   2A  1343 20.21   16              -1.0                             
+ VLEVIBZ ES   2A  1343 27.31                                                    
+ VNARWBZ EP   0A  1343 18.31   89              -1.0                             
+ VNARWBZ ES   2A  1343 23.51                                                    
+ VPOTOBZ EP   0A  1343 19.81   88              -1.0                             
+ VPOTOBZ ES   2A  1343 26.61                                                    
+ VSARABZ EP   0A  1343 29.41   69              -1.0                             
+ VSARABZ ES   3A  1343 43.11                                                    
+ VTAMBBZ EP   1A  1343 36.51   68              -1.0                             
+ VTURTBZ EP   0A  1343 26.61   81              -1.0                             
+ VTURTBZ ES   2A  1344 36.71                                                    
+                                                                                
+ 2008  6 1 14 6 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601140628     I
+ 2008-06-01-1406-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  14 7  1.61   42              -1.0                             
+ VANGOBZ ES   3A  14 7 20.61                                                    
+ VASAVBZ EP   0A  14 6 58.11   30              -1.0                             
+ VASAVBZ ES   2A  14 7 13.31                                                    
+ VAVUNBZ EP   0A  14 6 58.71   38             270.0  9.3                        
+ VAVUNBZ ES   2A  14 7 15.11                                                    
+ VBUTMBZ EP   0A  14 6 59.91   55               1.0  7.6                        
+ VBUTMBZ ES   2A  14 7 16.91                                                    
+ VEBENBZ EP   2A  14 7  0.71   55              -1.0                             
+ VESPIBZ EP   2A  14 6 59.11   32              -1.0                             
+ VIRHOBZ EP   1A  14 6 58.31   39              -1.0                             
+ VIRHOBZ ES   2A  14 7 13.71                                                    
+ VKOLHBZ EP   0A  14 6 59.51   71              -1.0                             
+ VKOLHBZ ES   3A  14 7 16.21                                                    
+ VLEBEBZ EP   1A  14 7  0.41   40              -1.0                             
+ VLEBEBZ ES   2A  14 7 17.81                                                    
+ VPOTOBZ EP   0A  14 6 58.81   26              -1.0                             
+ VPOTOBZ ES   2A  14 7 14.91                                                    
+ VSARABZ EP   0A  14 7  0.51   45              -1.0                             
+ VSARABZ ES   2A  14 7 18.01                                                    
+ VTAMBBZ EP   0A  14 6 59.21   74              -1.0                             
+ VTAMBBZ ES   1A  14 7 15.11                                                    
+ VTURTBZ EP   0A  14 6 58.71   61              -1.0                             
+                                                                                
+ 2008  6 1 1413 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601141328     I
+ 2008-06-01-1413-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1413 50.91   71              -1.0                             
+ VANGOBZ ES   2A  1414  8.91                                                    
+ VAVUNBZ EP   0A  1413 48.61   72              -1.0                             
+ VAVUNBZ ES   3A  1414  4.61                                                    
+ VBUTMBZ EP   0A  1413 49.51   83              -1.0                             
+ VBUTMBZ ES   1A  1414  5.81                                                    
+ VESPIBZ EP   2A  1413 49.41   91              -1.0                             
+ VIRHOBZ EP   1A  1413 48.01   78              -1.0                             
+ VIRHOBZ ES   3A  1414  3.01                                                    
+ VKOLHBZ EP   1A  1413 49.21   85              -1.0                             
+ VLEBEBZ EP   1A  1414  6.91   61              -1.0                             
+ VLEBEBZ ES   2A  1414 46.81                                                    
+ VNARWBZ EP   1A  1414  5.01   35              -1.0                             
+ VPOTOBZ EP   1A  1413 49.01   32              -1.0                             
+ VPOTOBZ ES   3A  1414  5.31                                                    
+ VSARABZ EP   0A  1413 49.91   36              -1.0                             
+ VSARABZ ES   2A  1414  6.61                                                    
+ VTAMBBZ EP   2A  1413 49.21   91              -1.0                             
+ VTAMBBZ ES   2A  1414  4.61                                                    
+ VTURTBZ EP   0A  1413 48.11   35              -1.0                             
+ VTURTBZ ES   2A  1414  3.41                                                    
+                                                                                
+ 2008  6 1 1418 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601141822     I
+ 2008-06-01-1418-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1419  4.41   70              -1.0                             
+ VASAVBZ EP   0A  1418 57.11   77              -1.0                             
+ VASAVBZ ES   3A  1419  8.41                                                    
+ VAVUNBZ EP   0A  1418 58.41   76             270.0  9.8                        
+ VAVUNBZ ES   2A  1419 11.21                                                    
+ VBUTMBZ EP   0A  1419  2.51   72              -1.0                             
+ VEBENBZ EP   1A  1419  0.21   74              -1.0                             
+ VEBENBZ ES   2A  1419 14.71                                                    
+ VESPIBZ EP   0A  1418 53.21   81              -1.0                             
+ VIRHOBZ EP   0A  1419  1.01   73             358.0  5.1                        
+ VIRHOBZ ES   2A  1419 16.21                                                    
+ VKOLHBZ EP   0A  1419  4.51   70             336.0  8.1                        
+ VLAKABZ EP   0A  1418 51.81   82              17.0 12.4                        
+ VLEBEBZ EP   0A  1419  1.81   72             270.0  4.8                        
+ VLEVIBZ EP   0A  1418 50.51   84              -1.0                             
+ VLEVIBZ ES   2A  1418 57.81                                                    
+ VNARWBZ EP   0A  1418 53.61   80             357.0                             
+ VPOTOBZ EP   0A  1418 55.01   79              -1.0                             
+ VPOTOBZ ES   3A  1419  5.61                                                    
+ VSALEBZ EP   1A  1418 58.81   75              -1.0                             
+ VSARABZ EP   0A  1419  4.11   70                                               
+ VSARABZ ES   3A  1419 22.41                  225.0                             
+ VSULEBZ EP   0A  1419  1.11   73              -1.0                             
+ VTAMBBZ EP   0A  1419  1.01   73              -1.0                             
+ VTAMBBZ ES   2A  1419 15.51                                                    
+ VTURTBZ EP   0A  1419  2.61   71              16.0  7.7                        
+ VWUSIBZ EP   1A  1419  3.31   71              -1.0                             
+                                                                                
+ 2008  6 1 1418 38.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601141838     I
+ 2008-06-01-1418-38S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1419  4.41   86              -1.0                             
+ VASAVBZ EP   0A  1418 57.11   93              -1.0                             
+ VASAVBZ ES   3A  1419  8.41                                                    
+ VAVUNBZ EP   0A  1418 58.41   92             270.0  9.8                        
+ VAVUNBZ ES   2A  1419 11.21                                                    
+ VBUTMBZ EP   0A  1419  2.51   87              -1.0                             
+ VEBENBZ EP   1A  1419  0.21   90              -1.0                             
+ VEBENBZ ES   2A  1419 14.71                                                    
+ VESPIBZ EP   0A  1418 53.21   97              -1.0                             
+ VIRHOBZ EP   0A  1419  1.01   89             358.0  5.1                        
+ VIRHOBZ ES   2A  1419 16.21                                                    
+ VKOLHBZ EP   0A  1419  4.51   82             336.0  8.1                        
+ VLAKABZ EP   0A  1418 51.81   98              17.0 12.4                        
+ VLEBEBZ EP   0A  1419  1.81   88             270.0  4.8                        
+ VLEVIBZ EP   0A  1418 50.51   91              -1.0                             
+ VLEVIBZ ES   2A  1418 57.81                                                    
+ VNARWBZ EP   0A  1418 53.61   96             357.0                             
+ VPOTOBZ EP   0A  1418 55.01   95              -1.0                             
+ VPOTOBZ ES   3A  1419  5.61                                                    
+ VSALEBZ EP   1A  1418 58.71   87              -1.0                             
+ VSARABZ EP   0A  1419  4.11   86                                               
+ VSARABZ ES   3A  1419 22.41                  225.0                             
+ VSULEBZ EP   0A  1419  1.11   89              -1.0                             
+ VTAMBBZ EP   0A  1419  1.01   87              -1.0                             
+ VTAMBBZ ES   2A  1419 15.51                                                    
+ VTURTBZ EP   0A  1419  2.61   87              16.0  7.7                        
+ VWUSIBZ EP   1A  1419  3.31   87              -1.0                             
+                                                                                
+ 2008  6 1 1426  6.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601142606     I
+ 2008-06-01-1426-06S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1426 28.71   51              -1.0                             
+ VANGOBZ ES   2A  1426 40.91                                                    
+ VASAVBZ EP   0A  1426 26.81   21                                               
+ VASAVBZ ES   2A  1427 40.61                  291.0                             
+ VAVUNBZ EP   2A  1426 30.41   83              -1.0                             
+ VAVUNBZ ES   2A  1426 43.91                                                    
+ VBUTMBZ EP   0A  1426 27.81   51              -1.0                             
+ VBUTMBZ ES   2A  1426 40.11                                                    
+ VKOLHBZ EP   1A  1426 26.41   91              -1.0                             
+ VKOLHBZ ES   3A  1427 24.41                                                    
+ VLAKABZ EP   0A  1427 28.91    3              -1.0                             
+ VLEBEBZ EP   0A  1426 41.31   39              -1.0                             
+ VLEVIBZ EP   2A  1427  7.51   37              -1.0                             
+ VSARABZ EP   0A  1426 26.91   43              -1.0                             
+ VSARABZ ES   3A  1426 39.01                                                    
+ VTAMBBZ EP   1A  1426 41.11    6              -1.0                             
+ VTURTBZ EP   0A  1426 26.81   68              -1.0                             
+ VTURTBZ ES   2A  1426 38.51                                                    
+                                                                                
+ 2008  6 1 1428 17.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601142817     I
+ 2008-06-01-1428-17S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VLEVIBZ EP   2A  1428 32.81   25              88.0                             
+                                                                                
+ 2008  6 1 1431 10.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601143110     I
+ 2008-06-01-1431-10S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   2A  1431 38.51   84             214.0                             
+ VAVUNBZ EP   1A  1431 24.61   95              -1.0                             
+ VBUTMBZ EP   1A  1431 43.51   79              -1.0                             
+                                                                                
+ 2008  6 1 1433  1.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601143301     I
+ 2008-06-01-1433-01S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   1A  1434 21.31   32              -1.0                             
+ VAVUNBZ ES   2A  1434 34.01                                                    
+ VIRHOBZ EP   2A  1434 38.91   14              -1.0                             
+ VLAKABZ EP   2A  1434 14.91   32              -1.0                             
+ VLEVIBZ EP   2A  1433 50.31   63              93.0                             
+ VLEVIBZ ES   2A  1434 20.31                                                    
+ VTAMBBZ EP   1A  1434 38.21   13              -1.0                             
+                                                                                
+ 2008  6 1 1433 52.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601143352     I
+ 2008-06-01-1433-52S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   1A  1434 21.31   37              -1.0                             
+ VAVUNBZ ES   2A  1434 34.01                                                    
+ VIRHOBZ EP   2A  1434 38.91   31              -1.0                             
+ VLAKABZ EP   2A  1434 14.91   44              -1.0                             
+ VLEVIBZ EP   1A  1434 20.31    2              -1.0                             
+ VTAMBBZ EP   1A  1434 38.21   39              -1.0                             
+                                                                                
+ 2008  6 1 1438 46.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601143846     I
+ 2008-06-01-1438-46S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1438 56.51   96              -1.0                             
+ VAVUNBZ EP   2A  1439 10.71   85              -1.0                             
+ VAVUNBZ ES   2A  1439 31.81                                                    
+ VBUTMBZ EP   0A  1439  8.31   68              -1.0                             
+ VBUTMBZ ES   2A  1439 27.71                                                    
+ VIRHOBZ EP   1A  1439  8.41   59              -1.0                             
+ VIRHOBZ ES   2A  1439 27.81                                                    
+ VKOLHBZ EP   1A  1439  7.11   36              -1.0                             
+ VKOLHBZ ES   2A  1439 25.21                                                    
+ VLEBEBZ EP   1A  1439 28.81   26              -1.0                             
+ VSARABZ EP   0A  1439  7.41   63              -1.0                             
+ VTAMBBZ EP   2A  1439 29.11   69              -1.0                             
+ VTURTBZ EP   1A  1439 26.41   11              -1.0                             
+ VWUSIBZ EP   1A  1439 30.21   19              -1.0                             
+                                                                                
+ 2008  6 1 1442 14.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601144214     I
+ 2008-06-01-1442-14S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VASAVBZ EP   2A  1442 25.71   33              -1.0                             
+ VAVUNBZ EP   1A  1442 51.31   42              -1.0                             
+ VBUTMBZ EP   0A  1442 43.01   83              -1.0                             
+ VBUTMBZ ES   3A  1442 59.31                                                    
+ VESPIBZ EP   2A  1442 24.71   97             217.0                             
+ VIRHOBZ EP   1A  1442 41.71   39               8.0                             
+ VIRHOBZ ES   2A  1442 56.11                                                    
+ VLAKABZ EP   2A  1442 32.41   45                                               
+ VLAKABZ ES   2A  1442 39.61                  264.0                             
+ VLEVIBZ EP   2A  1443 50.71  -96              -1.0                             
+ VTAMBBZ EP   1A  1442 55.61   70              -1.0                             
+                                                                                
+ 2008  6 1 1444 16.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601144416     I
+ 2008-06-01-1444-16S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   0A  1444 55.21   20              -1.0                             
+ VBUTMBZ EP   0A  1444 37.21   51              -1.0                             
+ VBUTMBZ ES   2A  1444 52.91                                                    
+ VLEVIBZ EP   1A  1444 58.21   70              92.0  4.8                        
+ VSARABZ EP   0A  1444 37.21   47              -1.0                             
+ VSARABZ ES   2A  1444 53.21                                                    
+ VTAMBBZ EP   1A  1444 52.41   68              -1.0                             
+ VTURTBZ EP   1A  1444 36.21   35              -1.0                             
+                                                                                
+ 2008  6 1 1450 44.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601145044     I
+ 2008-06-01-1450-44S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1451  5.01   82              -1.0                             
+ VANGOBZ ES   2A  1451 22.31                                                    
+ VASAVBZ EP   1A  1451  5.61   55              -1.0                             
+ VASAVBZ ES   1A  1451 58.71                                                    
+ VAVUNBZ EP   2A  1451  5.71   81                                               
+ VAVUNBZ ES   2A  1451 56.61                   91.0  7.7                        
+ VBUTMBZ EP   1A  1451  5.31   71              -1.0                             
+ VBUTMBZ ES   3A  1451 19.51                                                    
+ VKOLHBZ EP   2A  1451 19.21   10              -1.0                             
+ VSARABZ EP   0A  1451  5.51   90              -1.0                             
+ VSARABZ ES   3A  1451 20.71                                                    
+ VTURTBZ EP   1A  1451  4.31   92              -1.0                             
+                                                                                
+ 2008  6 1 1455 49.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601145549     I
+ 2008-06-01-1455-49S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VBUTMBZ EP   1A  1456 10.11   30              -1.0                             
+ VBUTMBZ ES   2A  1456 24.21                                                    
+ VSARABZ EP   1A  1456  9.61   79              -1.0                             
+ VSARABZ ES   3A  1456 23.31                                                    
+ VSULEBZ EP   2A  1457  3.21   34                                               
+ VSULEBZ ES   2A  1457  7.61                  302.0                             
+ VTURTBZ EP   1A  1456  8.41   56              -1.0                             
+ VTURTBZ ES   2A  1456 22.61                                                    
+                                                                                
+ 2008  6 1 15 0  4.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601150004     I
+ 2008-06-01-1500-04S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VAVUNBZ EP   1A  15 0 31.11   65             271.0  6.6                        
+ VBUTMBZ EP   0A  15 0 33.91   82              -1.0                             
+ VESPIBZ EP   1A  15 0 25.41   85              -1.0                             
+ VIRHOBZ EP   1A  15 0 31.81   57              -1.0                             
+ VLAKABZ EP   0A  15 0 22.21   94                                               
+ VLAKABZ ES   3A  15 0 30.81                  251.0                             
+ VNARWBZ EP   1A  15 0 24.01   72              -1.0                             
+ VSARABZ EP   1A  15 0 36.91   79              -1.0                             
+                                                                                
+ 2008  6 1 15 1 44.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601150144     I
+ 2008-06-01-1501-44S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  15 2  6.21   90              -1.0                             
+ VBUTMBZ EP   1A  15 2  5.51   90              -1.0                             
+ VSARABZ EP   1A  15 2  4.91   31              -1.0                             
+ VTAMBBZ EP   1A  15 2 17.81   76              -1.0                             
+ VTURTBZ EP   1A  15 2  4.61   86              -1.0                             
+ VTURTBZ ES   3A  15 2 21.41                                                    
+                                                                                
+ 2008  6 1 15 4 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601150428     I
+ 2008-06-01-1504-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VTAMBBZ EP   2A  15 4 57.71   63              -1.0                             
+                                                                                
+ 2008  6 1 1518 31.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601151831     I
+ 2008-06-01-1518-31S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1518 47.31   92              -1.0                             
+ VANGOBZ ES   1A  1518 56.91                                                    
+ VASAVBZ EP   0A  1518 55.01   48              -1.0                             
+ VASAVBZ ES   2A  1519  8.71                                                    
+ VAVUNBZ EP   0A  1518 55.11   72             270.0  8.4                        
+ VAVUNBZ ES   3A  1519  9.31                                                    
+ VBUTMBZ EP   0A  1518 55.81   87              -1.0                             
+ VBUTMBZ ES   2A  1519 10.01                                                    
+ VEBENBZ EP   0A  1518 56.71   68              -1.0                             
+ VEBENBZ ES   3A  1519 12.91                                                    
+ VESPIBZ EP   0A  1518 56.31   51              -1.0                             
+ VIRHOBZ EP   0A  1518 54.21   87             272.0 16.9                        
+ VIRHOBZ ES   2A  1519  7.31                                                    
+ VKOLHBZ EP   0A  1518 55.31   41              -1.0                             
+ VKOLHBZ ES   2A  1519  9.01                                                    
+ VLAKABZ EP   1A  1518 57.81   27                                               
+ VLAKABZ ES   3A  1519 13.41                  312.0                             
+ VLEBEBZ EP   0A  1518 56.11   81              -1.0                             
+ VLEBEBZ ES   2A  1519 11.41                                                    
+ VLEVIBZ EP   1A  1519 11.21   62              -1.0                             
+ VNARWBZ EP   0A  1518 56.01   48              -1.0                             
+ VNARWBZ ES   2A  1519 10.91                                                    
+ VPOTOBZ EP   0A  1518 56.01   43              -1.0                             
+ VPOTOBZ ES   2A  1519 11.21                                                    
+ VSALEBZ EP   1A  1518 57.01   33              -1.0                             
+ VSARABZ EP   0A  1518 56.21   52              -1.0                             
+ VSARABZ ES   2A  1519 10.91                                                    
+ VSULEBZ EP   1A  1518 57.81   59              -1.0                             
+ VTAMBBZ EP   0A  1518 55.31   38             341.0 15.8                        
+ VTAMBBZ ES   2A  1519  9.21                                                    
+ VTURTBZ EP   0A  1518 54.61   79              11.0 38.5                        
+ VTURTBZ ES   1A  1519  7.91                                                    
+ VWUSIBZ EP   1A  1518 58.41   40              -1.0                             
+                                                                                
+ 2008  6 1 1533 30.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601153330     I
+ 2008-06-01-1533-30S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   1A  1533 56.01   74              -1.0                             
+ VANGOBZ ES   3A  1534 13.61                                                    
+ VASAVBZ EP   1A  1534  2.51   63              -1.0                             
+ VAVUNBZ EP   0A  1533 52.21   82              -1.0                             
+ VBUTMBZ EP   0A  1533 53.71   88              -1.0                             
+ VBUTMBZ ES   2A  1534  9.41                                                    
+ VEBENBZ EP   2A  1534 10.71   24              -1.0                             
+ VESPIBZ EP   2A  1533 52.11   82              -1.0                             
+ VIRHOBZ EP   0A  1533 50.71   91             288.0  6.2                        
+ VIRHOBZ ES   2A  1535 23.51                                                    
+ VLEBEBZ EP   0A  1533 55.01   87              -1.0                             
+ VLEBEBZ ES   3A  1534 11.91                                                    
+ VNARWBZ EP   2A  1533 50.31   92              -1.0                             
+ VNARWBZ ES   2A  1534 37.71                                                    
+ VPOTOBZ EP   1A  1533 50.71   75              -1.0                             
+ VPOTOBZ ES   2A  1534  4.31                                                    
+ VSARABZ EP   0A  1533 54.61   87             179.0                             
+ VSARABZ ES   2A  1535  5.11                                                    
+ VTURTBZ EP   0A  1533 51.31   91              -1.0                             
+ VTURTBZ ES   2A  1535 22.11                                                    
+                                                                                
+ 2008  6 1 1537 51.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601153751     I
+ 2008-06-01-1537-51S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1538 25.31   41              -1.0                             
+ VANGOBZ ES   1A  1538 41.91                                                    
+ VAVUNBZ EP   0A  1538 26.31   66             270.0 11.4                        
+ VAVUNBZ ES   1A  1538 43.91                                                    
+ VBUTMBZ EP   0A  1538 24.61   78              -1.0                             
+ VBUTMBZ ES   2A  1538 41.21                                                    
+ VIRHOBZ EP   1A  1538 24.51   59              -1.0                             
+ VIRHOBZ ES   2A  1538 40.51                                                    
+ VKOLHBZ EP   1A  1538 38.61    9              -1.0                             
+ VLAKABZ EP   0A  1538 34.01   64              -1.0                             
+ VLEBEBZ EP   2A  1538 25.31   65              -1.0                             
+ VLEBEBZ ES   1A  1538 42.01                                                    
+ VSARABZ EP   0A  1538 24.01   49              -1.0                             
+ VSARABZ ES   2A  1538 40.01                                                    
+ VTAMBBZ EP   0A  1538 41.51   53              -1.0                             
+ VTURTBZ EP   1A  1538 23.81   36              -1.0                             
+ VTURTBZ ES   2A  1538 39.41                                                    
+                                                                                
+ 2008  6 1 1538  7.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601153807     I
+ 2008-06-01-1538-07S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1538 25.31   41              -1.0                             
+ VANGOBZ ES   1A  1538 41.91                                                    
+ VAVUNBZ EP   0A  1538 26.31   66             270.0 11.4                        
+ VAVUNBZ ES   1A  1538 43.91                                                    
+ VBUTMBZ EP   0A  1538 24.61   83              -1.0                             
+ VBUTMBZ ES   2A  1538 41.21                                                    
+ VIRHOBZ EP   1A  1538 24.51   64              -1.0                             
+ VIRHOBZ ES   2A  1538 40.51                                                    
+ VKOLHBZ EP   1A  1538 38.61   74              -1.0                             
+ VKOLHBZ ES   3A  1539 51.21                                                    
+ VLAKABZ EP   0A  1538 34.01   64              -1.0                             
+ VLEBEBZ EP   2A  1538 25.31   63              -1.0                             
+ VLEBEBZ ES   1A  1538 42.01                                                    
+ VSARABZ EP   0A  1538 24.01   48              -1.0                             
+ VSARABZ ES   2A  1538 40.01                                                    
+ VTAMBBZ EP   0A  1538 41.51   26              -1.0                             
+ VTURTBZ EP   1A  1538 23.81   39              -1.0                             
+ VTURTBZ ES   2A  1538 39.41                                                    
+                                                                                
+ 2008  6 1 1540 15.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601154015     I
+ 2008-06-01-1540-15S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VANGOBZ EP   2A  1540 46.91   13              -1.0                             
+ VBUTMBZ EP   1A  1540 36.41   34              -1.0                             
+ VBUTMBZ ES   2A  1540 47.51                                                    
+ VIRHOBZ EP   1A  1540 38.11   72              -1.0                             
+ VIRHOBZ ES   2A  1540 50.91                                                    
+ VKOLHBZ EP   2A  1540 34.71   92              -1.0                             
+ VKOLHBZ ES   1A  1540 44.11                                                    
+ VLEBEBZ EP   1A  1540 49.01   52              -1.0                             
+ VSARABZ EP   0A  1540 34.71   33              -1.0                             
+ VSARABZ ES   1A  1540 44.21                                                    
+ VTAMBBZ EP   1A  1540 50.71   16              -1.0                             
+ VTURTBZ EP   1A  1540 36.21   27              -1.0                             
+ VTURTBZ ES   2A  1540 47.11                                                    
+                                                                                
+ 2008  6 1 16 3 19.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601160319     I
+ 2008-06-01-1603-19S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+ VKOLHBZ EP   1A  16 3 50.11   60              -1.0                             
+ VLEVIBZ EP   1A  16 4 10.91   56                                               
+ VLEVIBZ ES   2A  16 5  5.31                                                    
+                                                                                
+ 2008  6 1 16 8 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601160828     I
+ 2008-06-01-1608-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1610 52.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601161052     I
+ 2008-06-01-1610-52S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1632 53.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601163253     I
+ 2008-06-01-1632-53S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1642  0.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601164200     I
+ 2008-06-01-1642-00S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1643  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601164308     I
+ 2008-06-01-1643-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1643 43.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601164343     I
+ 2008-06-01-1643-43S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1657 46.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601165746     I
+ 2008-06-01-1657-46S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 17 4 16.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601170416     I
+ 2008-06-01-1704-16S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 17 8 15.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601170815     I
+ 2008-06-01-1708-15S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 17 8 48.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601170848     I
+ 2008-06-01-1708-48S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 17 9 40.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601170940     I
+ 2008-06-01-1709-40S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1721 50.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601172150     I
+ 2008-06-01-1721-50S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1723 30.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601172330     I
+ 2008-06-01-1723-30S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1731 51.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601173151     I
+ 2008-06-01-1731-51S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1750 10.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601175010     I
+ 2008-06-01-1750-10S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1753 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601175345     I
+ 2008-06-01-1753-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1757 29.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601175729     I
+ 2008-06-01-1757-29S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1757 51.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601175751     I
+ 2008-06-01-1757-51S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1822  7.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601182207     I
+ 2008-06-01-1822-07S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1823 48.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601182348     I
+ 2008-06-01-1823-48S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1824 18.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601182418     I
+ 2008-06-01-1824-18S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1832 56.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601183256     I
+ 2008-06-01-1832-56S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1833 37.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601183337     I
+ 2008-06-01-1833-37S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1839 14.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601183914     I
+ 2008-06-01-1839-14S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1845 48.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601184548     I
+ 2008-06-01-1845-48S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1919 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601191922     I
+ 2008-06-01-1919-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1927 22.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601192722     I
+ 2008-06-01-1927-22S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1939 29.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601193929     I
+ 2008-06-01-1939-29S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 1955 35.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601195535     I
+ 2008-06-01-1955-35S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 20 2 12.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601200212     I
+ 2008-06-01-2002-12S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 20 6 32.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601200632     I
+ 2008-06-01-2006-32S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 20 9 23.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601200923     I
+ 2008-06-01-2009-23S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2035 47.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601203547     I
+ 2008-06-01-2035-47S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2040 17.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601204017     I
+ 2008-06-01-2040-17S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2113 34.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601211334     I
+ 2008-06-01-2113-34S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2120 11.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601212011     I
+ 2008-06-01-2120-11S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2143 25.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601214325     I
+ 2008-06-01-2143-25S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2159  8.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601215908     I
+ 2008-06-01-2159-08S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 22 3 46.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601220346     I
+ 2008-06-01-2203-46S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2219 23.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601221923     I
+ 2008-06-01-2219-23S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2223 38.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601222338     I
+ 2008-06-01-2223-38S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2231 28.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601223128     I
+ 2008-06-01-2231-28S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2232 19.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601223219     I
+ 2008-06-01-2232-19S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2234 50.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601223450     I
+ 2008-06-01-2234-50S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2247 45.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601224745     I
+ 2008-06-01-2247-45S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 23 0 31.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601230031     I
+ 2008-06-01-2300-31S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 23 7 52.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601230752     I
+ 2008-06-01-2307-52S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2311 32.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601231132     I
+ 2008-06-01-2311-32S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2319 37.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601231937     I
+ 2008-06-01-2319-37S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2325 31.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601232531     I
+ 2008-06-01-2325-31S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2332 17.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601233217     I
+ 2008-06-01-2332-17S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                
+ 2008  6 1 2342 12.0 L                                                         1
+ ACTION:ARG 12-09-17 15:47 OP:chb  STATUS:               ID:20080601234212     I
+ 2008-06-01-2342-12S.VNRC__100_MSEED                                           6
+ STAT SP IPHASW D HRMM SECON CODA AMPLIT PERI AZIMU VELO AIN AR TRES W  DIS CAZ7
+                                                                                

@@ -1,0 +1,32 @@
+#!/bin/bash
+# Bash implementation of numpy's linspace function, which 'Returns evenly spaced
+# numbers over a specified interval'.
+# Usage: linspace XMIN XMAX NSTEPS
+
+
+# check if an argument is missing
+if [ -z "$1" ] || [ -z "$2" ] || [ -z "$3" ]; then
+    echo "Error: missing arguments."
+    echo "Usage: linspace XMIN XMAX NSTEPS"; exit 1
+fi
+
+# check if XMIN and XMAX are numbers
+RE='^-?[0-9]+([.][0-9]+)?$'
+if ! [[ "$1" =~ $RE ]] || ! [[ "$2" =~ $RE ]]; then
+    echo "Error: arguments XMIN and XMAX have to be numbers."; exit 1
+fi
+
+# check if NSTEPS is integer
+RE='^[0-9]+$'
+if ! [[ "$3" =~ $RE ]] ; then
+    echo "Error: argument NSTEPS should be an integer."; exit 1
+fi
+
+# calculate and print the linspace array
+XMIN="$1"
+XMAX="$2"
+NSTEPS="$3"
+for i in $(seq 0 1 $((NSTEPS - 1))); do
+    echo | awk -v i=$i -v XMIN=$XMIN -v XMAX=$XMAX -v NSTEPS=$NSTEPS \
+                          '{printf "%.8f ", XMIN + 1.*i/(NSTEPS-1)*(XMAX-XMIN)}'
+done && echo
